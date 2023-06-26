@@ -1,0 +1,1380 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1,USA-FHD Fight Network
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9sbyyCwupcsnwQDDHBOFfz0RavQDSMDOuKYgy5mQ7AO/ts
+#EXTINF:-1,USA-FHD FanDuel TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9sbyyCwupcsnwQDDHBOFfxE2cI2SN1iad19X8oCvJLd/ts
+#EXTINF:-1,USA-FHD FanDuel Racing
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9sbyyCwupcsnwQDDHBOFfx1mVMMP_J5LZ6i3Lb1UHQA/ts
+#EXTINF:-1,USA-FHD VSiN
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9sbyyCwupcsnwQDDHBOFfym_dJaiUK_CSsXqR_8WHNu/ts
+#EXTINF:-1,USA-FHD: SportsGrid
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9sbyyCwupcsnwQDDHBOFfzzESkrmwDKf1eVxsNWuLzi/ts
+#EXTINF:-1,USA-FHD: ACC NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9sbyyCwupcsnwQDDHBOFfwz6VJAgAs9HoTzeYWD0kL7/ts
+#EXTINF:-1,USA-FHD: BTN big ten network
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9sbyyCwupcsnwQDDHBOFfzzAZIZrVWjcGOfHq3LH288/ts
+#EXTINF:-1,USA-FHD: CBS SPORTS NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxwev3XWCFY_WeldmDXtNH1cGWYhyt4NFpVzhSGNDvAk/ts
+#EXTINF:-1,USA-FHD: ESPN
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxwev3XWCFY_WeldmDXtNH2-GgYO-_PsWtWAEUg3qKtP/ts
+#EXTINF:-1,USA-FHD: ESPN2
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxwev3XWCFY_WeldmDXtNH2JFakDUDrWSjKLY32Rwg0Y/ts
+#EXTINF:-1,USA-FHD: ESPNU
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxwev3XWCFY_WeldmDXtNH2BjJOcO_WoHQgrFyOEXjMV/ts
+#EXTINF:-1,USA-FHD: FS1
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxwev3XWCFY_WeldmDXtNH2j47d_0rqNl7FtAf_kKrHg/ts
+#EXTINF:-1,USA-FHD: FS2
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxwev3XWCFY_WeldmDXtNH19eHYNWbrlRDv6Fywspdwf/ts
+#EXTINF:-1,USA-FHD: GOL TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxwev3XWCFY_WeldmDXtNH0ZwJUZPrRUq8PjQFD7Ijvw/ts
+#EXTINF:-1,USA-FHD: GOLF CHANNEL
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxwev3XWCFY_WeldmDXtNH1IqcqXW1nm4XVADVm2q4rG/ts
+#EXTINF:-1,USA-FHD: MAVTV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxwev3XWCFY_WeldmDXtNH0OGjH1fKRn-mN6Bp_11Jg7/ts
+#EXTINF:-1,USA-FHD: MLB NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxwev3XWCFY_WeldmDXtNH1nDsoSFS-CkMCfyNhPIyyl/ts
+#EXTINF:-1,USA-FHD: NBA TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6YxWHp1JmXZeYIgMY6f_AbTlRaZHHXJAsHFvREvRNGG/ts
+#EXTINF:-1,USA-FHD: NFL NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6YxWHp1JmXZeYIgMY6f_AZeeVpHOWIf2VSES3PWy02r/ts
+#EXTINF:-1,USA-FHD: SEC NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6YxWHp1JmXZeYIgMY6f_Aa8GZ8MMibL8Pgmt2wis8_Q/ts
+#EXTINF:-1,USA-FHD: STADIUM
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6YxWHp1JmXZeYIgMY6f_Ab_qSvj8sBCgjxeNNnBEzD5/ts
+#EXTINF:-1,USA-FHD: STADIUM 1
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6YxWHp1JmXZeYIgMY6f_AbkriUJdM_hvfEoJ9rVpuEB/ts
+#EXTINF:-1,USA-FHD: TVG
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6YxWHp1JmXZeYIgMY6f_AbnF6-jLa0l6HoViaxzxdP4/ts
+#EXTINF:-1,USA-FHD: TVG2
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6YxWHp1JmXZeYIgMY6f_AZXT5riMHGXbhACACCk5yC6/ts
+#EXTINF:-1,USA-FHD: IMPACT Wrestling Channel
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6YxWHp1JmXZeYIgMY6f_AZ-sLfYCHPpRXGYcibECj-T/ts
+#EXTINF:-1,USA-FHD: MLB Network Alternate
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6YxWHp1JmXZeYIgMY6f_AbT4v1QIs-hLpnpY3Y4QDDm/ts
+#EXTINF:-1,USA-FHD: beIN SPORTS XTRA
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6YxWHp1JmXZeYIgMY6f_AYy_9L_7rVhDooZAyKAOgKV/ts
+#EXTINF:-1,US: Bally Sports Cincinnati
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1oKPAgrWw3NSyi_WFEHzlD0gDAYYG37KHctkm5w0Ctw/ts
+#EXTINF:-1,US: Sooners network
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1oKPAgrWw3NSyi_WFEHzlC8c0DdAFpFsQnGg8k3HHjT/ts
+#EXTINF:-1,US: MavTv Plus
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1oKPAgrWw3NSyi_WFEHzlD4EuT_5kfIzLtgpIme84ww/ts
+#EXTINF:-1,US: BALLY SPORTS ARIZONA
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1oKPAgrWw3NSyi_WFEHzlDK96vgidpYg6apSh43wOfm/ts
+#EXTINF:-1,US: BALLY SPORTS ARIZONA PLUS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1oKPAgrWw3NSyi_WFEHzlADmOPta3239F8Ap8vfhBz7/ts
+#EXTINF:-1,US: BALLY SPORTS DETROIT
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1oKPAgrWw3NSyi_WFEHzlATC2t2i5WBp2ZdB90ZHG1Q/ts
+#EXTINF:-1,US: BALLY SPORTS KANSAS CITY
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1oKPAgrWw3NSyi_WFEHzlCfCWgsxkb6w4BGrbsqS7KA/ts
+#EXTINF:-1,US: BALLY SPORTS FLORIDA
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1oKPAgrWw3NSyi_WFEHzlANdWXIeh2Ftvkej7Bhi3dp/ts
+#EXTINF:-1,US: BALLY SPORTS GREAT LAKES
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1oKPAgrWw3NSyi_WFEHzlCD5o9RBIxZNbmKd9RZ7pvB/ts
+#EXTINF:-1,US: BALLY SPORTS INDIANA
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1oKPAgrWw3NSyi_WFEHzlBGzoNqWATVK8MDVDzPiBUr/ts
+#EXTINF:-1,US: BALLY SPORTS MIDWEST d
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk76FekWMnDYW2hutE-OaC4HFKRz4tE613ThBAsfDQa_N/ts
+#EXTINF:-1,US: BALLY SPORTS MIDWEST PLUS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk76FekWMnDYW2hutE-OaC4Fvwm-BKyaTu-h9k40pEvvd/ts
+#EXTINF:-1,US: BALLY SPORTS NEW ORLEANS d
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk76FekWMnDYW2hutE-OaC4HjJakqUSKqtmSaacuagd6X/ts
+#EXTINF:-1,US: BALLY SPORTS NEW ORLEANS PLUS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk76FekWMnDYW2hutE-OaC4E9pUo6VycF6tPpZjlIDqZx/ts
+#EXTINF:-1,US: BALLY SPORTS NORTH
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk76FekWMnDYW2hutE-OaC4E1fEtJy6kZU60Hm3fon4Fs/ts
+#EXTINF:-1,US: BALLY SPORTS NORTH PLUS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk76FekWMnDYW2hutE-OaC4EQ6XQIxpiOcqOplzOO8tU9/ts
+#EXTINF:-1,US: BALLY SPORTS OHIO
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk76FekWMnDYW2hutE-OaC4G3PszrATVffxH6xnSN8ik7/ts
+#EXTINF:-1,US: BALLY SPORTS OHIO PLUS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk76FekWMnDYW2hutE-OaC4HuNgl4MkZoJdsp05Js5mKX/ts
+#EXTINF:-1,US: BALLY SPORTS OKLAHOMA
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk76FekWMnDYW2hutE-OaC4G83xjBPCrHnyhtpihKQ9YI/ts
+#EXTINF:-1,US: BALLY SPORTS OKLAHOMA PLUS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk76FekWMnDYW2hutE-OaC4G2_43E_lM_MbfEFvCYt42x/ts
+#EXTINF:-1,US: BALLY SPORTS SAN DIEGO
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyyD_3mO_QqLNcvJZyhTHw2ZbgAy1rlTPMiKS65hCBs7/ts
+#EXTINF:-1,US: BALLY SPORTS SAN DIEGO PLUS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyyD_3mO_QqLNcvJZyhTHw2PGOG1eZ28OqDfKHYn2K0q/ts
+#EXTINF:-1,US: BALLY SPORTS SOCAL
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyyD_3mO_QqLNcvJZyhTHw3lYB5V-8XfgQM_D70UueV5/ts
+#EXTINF:-1,US: BALLY SPORTS SOUTH
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyyD_3mO_QqLNcvJZyhTHw0Vx4oS-KuueI9N_BKz_qpk/ts
+#EXTINF:-1,US: BALLY SPORTS SOUTH PLUS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyyD_3mO_QqLNcvJZyhTHw3LNYqOsYzq4sf2oeqkPjrU/ts
+#EXTINF:-1,US: BALLY SPORTS SOUTHEAST
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyyD_3mO_QqLNcvJZyhTHw295DNoOkwQJc69qFQgASC8/ts
+#EXTINF:-1,US: BALLY SPORTS SOUTHWEST
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyyD_3mO_QqLNcvJZyhTHw2fwx6aO6LjG51ZZnkt4-Ta/ts
+#EXTINF:-1,US: BALLY SPORTS SOUTHWEST PLUS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyyD_3mO_QqLNcvJZyhTHw2hXHBnYUlcX2osBbQv6qoL/ts
+#EXTINF:-1,US: BALLY SPORTS SUN
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyyD_3mO_QqLNcvJZyhTHw2jJuemWMzPvcn3B7VsW3it/ts
+#EXTINF:-1,US: BALLY SPORTS WEST
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyyD_3mO_QqLNcvJZyhTHw2K9gIW3AV7h5GM_-RyyWBQ/ts
+#EXTINF:-1,US: BALLY SPORTS WISCONSIN
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk_7aSdYbC1pndVltTpWTO8TAsJzi9sFnwnuHjmxaAIri/ts
+#EXTINF:-1,US: BALLY SPORTS WISCONSIN PLUS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk_7aSdYbC1pndVltTpWTO8QfWH3Tecq_T5m6apxzq0fE/ts
+#EXTINF:-1,US: BALLY SPORTS DETROIT PLUS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk_7aSdYbC1pndVltTpWTO8RJICkYB6ZDei2f_Bev76Mm/ts
+#EXTINF:-1,US: AT&T SPORTSNET PITTSBURGH
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk_7aSdYbC1pndVltTpWTO8RZ5BJsspyaKrRzhpCyl-Jm/ts
+#EXTINF:-1,US: DraftKings Baseball
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk_7aSdYbC1pndVltTpWTO8ShNvREntjqaBDkV8nSexNL/ts
+#EXTINF:-1,US: Outside TV +
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk_7aSdYbC1pndVltTpWTO8TM_YyTiOy9P5ihMuHgGq_k/ts
+#EXTINF:-1,US: Olympic Channel OFFLINE
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk_7aSdYbC1pndVltTpWTO8RRrcg9R85kDzmlkkF6Xqcn/ts
+#EXTINF:-1,US: ACC Network
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk_7aSdYbC1pndVltTpWTO8QYEflLxtnFzaq10WxlI3G7/ts
+#EXTINF:-1,US: Adventure Sports Network
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk_7aSdYbC1pndVltTpWTO8ToY8vRT06-gK9AAe37vRRl/ts
+#EXTINF:-1,US: Altitude Sports
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk_7aSdYbC1pndVltTpWTO8Qbd6VHUheuRkoH1fitQvyI/ts
+#EXTINF:-1,US: AT&T SPORTSNET Southwest
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2_wSdcFTKX0EOHejXljJTfZDtLaNqXVyrIVgfU8BM3M/ts
+#EXTINF:-1,US: Big Ten Network
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2_wSdcFTKX0EOHejXljJTfFo1oAGrThvsfNUp5AUxO4/ts
+#EXTINF:-1,US: CBS SPORTS NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2_wSdcFTKX0EOHejXljJTdiBiqBvVj_srEUqu2lq7hb/ts
+#EXTINF:-1,US: Edge Sport
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2_wSdcFTKX0EOHejXljJTdtBPFwajeF8wXRqVeoBhq3/ts
+#EXTINF:-1,US: ELEVEN SPORTS NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2_wSdcFTKX0EOHejXljJTeSX-uBdbJdsa_LUtEMJvyX/ts
+#EXTINF:-1,US: ESPN
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2_wSdcFTKX0EOHejXljJTdBUWkgmCJq4Fy2mtMLOQTF/ts
+#EXTINF:-1,US: ESPN 2
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2_wSdcFTKX0EOHejXljJTeDDQmnwkJsOLhp34iNZ4ls/ts
+#EXTINF:-1,US: ESPN 2 Backup
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2_wSdcFTKX0EOHejXljJTcYcXxRLSkKWee2DZp5AxMH/ts
+#EXTINF:-1,US: ESPN HD Backup
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2_wSdcFTKX0EOHejXljJTeSbIr7wE0BdaRBF913zcTj/ts
+#EXTINF:-1,US: ESPN News HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2_wSdcFTKX0EOHejXljJTdH2wT_xdVBMmgoODyFGyTh/ts
+#EXTINF:-1,US: ESPN U HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1RCVTdDcG6DFP2noCbksH50fUYnHs7OEs5OO-5PD_bU/ts
+#EXTINF:-1,US: Fight Box HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1RCVTdDcG6DFP2noCbksH6mjQtxYZMBLgy25aeCAuOa/ts
+#EXTINF:-1,US: FOX SOCCER PLUS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1RCVTdDcG6DFP2noCbksH4pcoa7PEGZnac3kr6M7290/ts
+#EXTINF:-1,US: FOX SPORTS 1 HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1RCVTdDcG6DFP2noCbksH7PE-Ni6Pc0dwjqyrQte0uG/ts
+#EXTINF:-1,US: FOX SPORTS 2
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1RCVTdDcG6DFP2noCbksH4zc-QryqB-9WjAK0Z0_X5w/ts
+#EXTINF:-1,US: Bally Sports Detroit
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1RCVTdDcG6DFP2noCbksH7dUEW2L1G5I9PV6nUXVkFA/ts
+#EXTINF:-1,US: Bally Sports Florida
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1RCVTdDcG6DFP2noCbksH76BVkXN35c0tyk5UhTaK0g/ts
+#EXTINF:-1,US: BALLY SPORTS MIDWEST
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1RCVTdDcG6DFP2noCbksH4DDTfGPcmf1y84vaZlbeBx/ts
+#EXTINF:-1,US: BALLY SPORTS NEW ORLEANS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1RCVTdDcG6DFP2noCbksH6wkGIVbOZIQfDZ9t-8anNL/ts
+#EXTINF:-1,US: BALLY SPORTS PRIME TICKET
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1RCVTdDcG6DFP2noCbksH7Szs8QRbbJWTV6bIJYKRP9/ts
+#EXTINF:-1,US: BALLY SPORTS WEST
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8GF4_XT_4NfKlqSEynxLM4i_51BTrk5ssULHfkXOWCo/ts
+#EXTINF:-1,US: BALLY SPORTS WISCONSIN
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8GF4_XT_4NfKlqSEynxLM7Uhpy6a34uCK4pXwqn3iYB/ts
+#EXTINF:-1,US: GINX HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8GF4_XT_4NfKlqSEynxLM5jqhCC9n4IevsSdtlNfDET/ts
+#EXTINF:-1,US: GOLTV ENGLISH HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8GF4_XT_4NfKlqSEynxLM4jP18clV37Aulzj1E8YHfP/ts
+#EXTINF:-1,US: Longhorn Network
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8GF4_XT_4NfKlqSEynxLM7NyXF2Bc5FTUrnSPyH_w-W/ts
+#EXTINF:-1,US: MAV TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8GF4_XT_4NfKlqSEynxLM4WivQd9uyW4m-4R0kgIjEp/ts
+#EXTINF:-1,US: MSG 2
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8GF4_XT_4NfKlqSEynxLM7fn8JIpaeuVV2RYWINkHl4/ts
+#EXTINF:-1,US: MSG Network
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8GF4_XT_4NfKlqSEynxLM5p03e6vqKIX0Sp5QBv9HWq/ts
+#EXTINF:-1,US: MSG Plus
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8GF4_XT_4NfKlqSEynxLM7mnRcedyLoJt5T_P6Mga37/ts
+#EXTINF:-1,US: MSG PLUS 2
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8GF4_XT_4NfKlqSEynxLM4g4PKV1JCQOxkw1b5ytC_S/ts
+#EXTINF:-1,US: NBC Golf
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk82dGqEGScUOOcH_4wUigblOsJrO2Msn0tXocMzYblRH/ts
+#EXTINF:-1,US: NBC Sports Network
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk82dGqEGScUOOcH_4wUigbmCRAFtfDloMVn3BMdc3X9D/ts
+#EXTINF:-1,US: NBCSN
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk82dGqEGScUOOcH_4wUigbkURxWZt78sPIQcQaibB_L0/ts
+#EXTINF:-1,US: NESN
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk82dGqEGScUOOcH_4wUigbk8KpnioaiELZaPQ5gIO36y/ts
+#EXTINF:-1,US: NESN plus
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk82dGqEGScUOOcH_4wUigbnlUzI39I7T8XZxH569KFRH/ts
+#EXTINF:-1,US: OUTDOOR CHANNEL
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk82dGqEGScUOOcH_4wUigbnD7cYQsjyfACrrlqpvRagr/ts
+#EXTINF:-1,US: OUTSIDE TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk82dGqEGScUOOcH_4wUigbn0q53yKI3d_0SvqgloAkqS/ts
+#EXTINF:-1,US: PAC-12 ARIZONA
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk82dGqEGScUOOcH_4wUigbn-4mtsMTdfN5_ztEJiNVKv/ts
+#EXTINF:-1,US: PAC-12 BAY AREA
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk82dGqEGScUOOcH_4wUigbmceq7inh23vEg2PnPoHl6-/ts
+#EXTINF:-1,US: PAC-12 LOS ANGELES
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk82dGqEGScUOOcH_4wUigbm7jGMBF7sdDDKgcy1WQi8W/ts
+#EXTINF:-1,US: PAC-12 MOUNTAIN
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4QbGcEjAtfOwCw4m_n9wNQGOqp7Iyp3se16gTcjFC8Z/ts
+#EXTINF:-1,US: PAC-12 NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4QbGcEjAtfOwCw4m_n9wNTsuxfm0CKU4FUEIyA8N17j/ts
+#EXTINF:-1,US: PAC-12 OREGON
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4QbGcEjAtfOwCw4m_n9wNSrNuN99IU1Xyjfe5sMeuoU/ts
+#EXTINF:-1,US: PAC-12 WASHINGTON
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4QbGcEjAtfOwCw4m_n9wNSUonQv7ijP7irGGWyXnvn5/ts
+#EXTINF:-1,US: Ride TV.
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4QbGcEjAtfOwCw4m_n9wNRGzKLPPlp19k7F0qIGupB1/ts
+#EXTINF:-1,US: SEC Network
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4QbGcEjAtfOwCw4m_n9wNSP7-T4yoWCwLPQtX-W1_Nm/ts
+#EXTINF:-1,US: SPORTSNET LA DODGERS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4QbGcEjAtfOwCw4m_n9wNQuF-cFEHcuyW-awUIxsUc_/ts
+#EXTINF:-1,US: SPECTRUM SPORTSNET LA LAKERS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4QbGcEjAtfOwCw4m_n9wNSO75-MJ1wxioxmusooY--i/ts
+#EXTINF:-1,US: SPORTSMAN CHANNEL
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4QbGcEjAtfOwCw4m_n9wNSV8PDbuREq4ywgeq_ZuFOc/ts
+#EXTINF:-1,US: SportsNet New York (SNY) HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4QbGcEjAtfOwCw4m_n9wNTlQ-vquFwmv_B75oWKxzYr/ts
+#EXTINF:-1,US: STADIUM
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3agrN3_y_9stbqplfDVQELk9UwUNbR1yJaSFLkxJR2y/ts
+#EXTINF:-1,US: STADIUM 1
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3agrN3_y_9stbqplfDVQEIKgpiUJYynm5iHaTGGPDqU/ts
+#EXTINF:-1,US: STADIUM 2
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3agrN3_y_9stbqplfDVQEKWxGweIkfE1mdyaGv7dWZa/ts
+#EXTINF:-1,US: STADIUM 3
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3agrN3_y_9stbqplfDVQEJhQjYat5cXU-jBQPyS2nT3/ts
+#EXTINF:-1,US: TENNIS CHANNEL
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3agrN3_y_9stbqplfDVQEJU517iL6p8BeXd6ZsIXm9y/ts
+#EXTINF:-1,US: TVG
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3agrN3_y_9stbqplfDVQEL8355BJsz566MQAENCw0al/ts
+#EXTINF:-1,US: VSIN
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3agrN3_y_9stbqplfDVQEJQUaHSYtEdZ2sXxu0VCKxW/ts
+#EXTINF:-1,US: WORLD FISHING NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3agrN3_y_9stbqplfDVQEJRPAWZm89IAJvWxKI-azK2/ts
+#EXTINF:-1,US: WWE s
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3agrN3_y_9stbqplfDVQEITGUOr18diFETn9gNDmynH/ts
+#EXTINF:-1,US: YES NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3agrN3_y_9stbqplfDVQEJzErkbIuUBGJ3NipawkMND/ts
+#EXTINF:-1,US: Root Sports
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0Ej7WhqnQ-vdunbvnzRAdYcw7PAwX4QCeN_NOiAZc-X/ts
+#EXTINF:-1,US: NBC SPORTS BAY AREA
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0Ej7WhqnQ-vdunbvnzRAdYsq_tID2J9c66VqvQB2Mt6/ts
+#EXTINF:-1,US: NBC SPORTS BAY AREA PLUS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0Ej7WhqnQ-vdunbvnzRAdakJu_1zSgeHWlTD7u3djiC/ts
+#EXTINF:-1,US: NBC SPORTS BOSTON
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0Ej7WhqnQ-vdunbvnzRAdbdlLGTF2o5O2qyEs8n4glO/ts
+#EXTINF:-1,US: NBC SPORTS CALIFORNIA
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0Ej7WhqnQ-vdunbvnzRAdbaCAc9laysOO4SAx7z9bE-/ts
+#EXTINF:-1,US: NBC SPORTS CHICAGO
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0Ej7WhqnQ-vdunbvnzRAda4jy9unJjFraAxPiZxlaVz/ts
+#EXTINF:-1,US: NBC SPORTS CHICAGO PLUS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0Ej7WhqnQ-vdunbvnzRAdak9ZOcbWEgRyV6Q00H-FQd/ts
+#EXTINF:-1,US: NBC SPORTS NORTHWEST
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0Ej7WhqnQ-vdunbvnzRAdZueBtjUCPy19rZ4zcA_yoy/ts
+#EXTINF:-1,US: NBC SPORTS PHILADELPHIA
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0Ej7WhqnQ-vdunbvnzRAdZ7JhSyeqtLnb2k9c-yEZmg/ts
+#EXTINF:-1,US: NBC SPORTS PHILADELPHIA PLUS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0Ej7WhqnQ-vdunbvnzRAdbVM2jOQGx3GVpdRenQO4G_/ts
+#EXTINF:-1,US: NBC SPORTS WASHINGTON
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-e-26CNaXpG4HDgtcj5j61ICxOMYA6Rkq4qSaBAHWVR/ts
+#EXTINF:-1,USA  | CBS ATLANTA
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1Ltoo7cBjrjLlL0f2BcjHgCBQCej3CpcBx95yMOiKId/ts
+#EXTINF:-1,USA |  CBS Bakersfield
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1Ltoo7cBjrjLlL0f2BcjHgZK2zGZd9y40CDuAT-WUAI/ts
+#EXTINF:-1,USA | CBC  Cincinnati
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1Ltoo7cBjrjLlL0f2BcjHjLJH3z3gJQYvmfX-HwRTb3/ts
+#EXTINF:-1,USA | CBS Baltimore
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1Ltoo7cBjrjLlL0f2BcjHga6aFMHpgTvfjEdJ0c8FdL/ts
+#EXTINF:-1,USA | CBS Boston
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1Ltoo7cBjrjLlL0f2BcjHjGPbd4z3lkpSAWOPtyCBXD/ts
+#EXTINF:-1,USA | CBS Boston
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1Ltoo7cBjrjLlL0f2BcjHhbcXL9aaOya9hr07VsQ6Ef/ts
+#EXTINF:-1,USA | CBS Charlotte
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1Ltoo7cBjrjLlL0f2BcjHgbmHEDAGAzXnh-bn2oebRm/ts
+#EXTINF:-1,USA | CBS Chicago
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1Ltoo7cBjrjLlL0f2BcjHhhsLPlTh9fShe9ye1jslTG/ts
+#EXTINF:-1,USA | CBS Cleveland
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1Ltoo7cBjrjLlL0f2BcjHjH_vctK429FDRYvWzaXmhy/ts
+#EXTINF:-1,USA | CBS Columbus
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1Ltoo7cBjrjLlL0f2BcjHhQjmsdPwCRrt7H6IzZfor3/ts
+#EXTINF:-1,USA | CBS Dallas
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxAZ6-WFHqNlLbWR0ECsEumz0XUtHrwSynVjYvtxw93O/ts
+#EXTINF:-1,USA | CBS Denver
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxAZ6-WFHqNlLbWR0ECsEunceacvhBNAbmuW9WAiBqhK/ts
+#EXTINF:-1,USA | CBS Detroit
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxAZ6-WFHqNlLbWR0ECsEukQAhXPt7QuFHjegw7kQcyw/ts
+#EXTINF:-1,USA | CBS EL PASO
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxAZ6-WFHqNlLbWR0ECsEukDtuRF3ec4DXzkwFqnxkYd/ts
+#EXTINF:-1,USA | CBS Greensboro
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxAZ6-WFHqNlLbWR0ECsEulPttv37ps4i5Ktbb1Teasw/ts
+#EXTINF:-1,USA | CBS HARTFORD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxAZ6-WFHqNlLbWR0ECsEukKUyuG6pij6s77fR1eKG6j/ts
+#EXTINF:-1,USA | CBS Houston
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxAZ6-WFHqNlLbWR0ECsEumwPT3o2ew96dxCeK7NuZjB/ts
+#EXTINF:-1,USA | CBS Jacksonville
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxAZ6-WFHqNlLbWR0ECsEukjhKQuY3iHjydn-mqugIrT/ts
+#EXTINF:-1,USA | CBS Kansas City
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxAZ6-WFHqNlLbWR0ECsEunyF01CyiUfNwYo_7ZBKinh/ts
+#EXTINF:-1,USA | CBS Los Angeles
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxAZ6-WFHqNlLbWR0ECsEulHGHtKhQ2Uw56qowcuwSqI/ts
+#EXTINF:-1,USA | CBS Miami
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0XbkjgxAoB9ijYv09CPCFE9J8Hz0Vshhj6A87Z6VBeg/ts
+#EXTINF:-1,USA | CBS Milwaukee
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0XbkjgxAoB9ijYv09CPCFGJ4dAAm9tIQhzVaA7Ud7Mk/ts
+#EXTINF:-1,USA | CBS Minneapolis
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0XbkjgxAoB9ijYv09CPCFFoOJex_pANI6txyJKV3VLY/ts
+#EXTINF:-1,USA | CBS Nashville
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0XbkjgxAoB9ijYv09CPCFF3sUHFUugIKqjI-oOiQY4A/ts
+#EXTINF:-1,USA | CBS New Orleans
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0XbkjgxAoB9ijYv09CPCFH7ntkkOr-YsRvMRYqHeFiG/ts
+#EXTINF:-1,USA | CBS New York
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0XbkjgxAoB9ijYv09CPCFEWL9DcY3k8MMQ0luydCJN9/ts
+#EXTINF:-1,USA | CBS Orlando
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0XbkjgxAoB9ijYv09CPCFFMZvVq52NXCNzLVAMf4b-o/ts
+#EXTINF:-1,USA | CBS Philadelphia
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0XbkjgxAoB9ijYv09CPCFHPFqbyADFpDhPpyHsGtzjZ/ts
+#EXTINF:-1,USA | CBS Phoenix
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0XbkjgxAoB9ijYv09CPCFHguiollC5qsaAacn_6-gY0/ts
+#EXTINF:-1,USA | CBS Pittsburgh
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0XbkjgxAoB9ijYv09CPCFFkp9fw1Q_Y929PZGqBi8GN/ts
+#EXTINF:-1,USA | CBS Portland
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwwQbdvCmES5YPmfrIh4KPt5lu4yOLGayOFXD9qMyJbg/ts
+#EXTINF:-1,USA | CBS Sacramento
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwwQbdvCmES5YPmfrIh4KPvNVKXdd3fll_UrQaPv1-C6/ts
+#EXTINF:-1,USA | CBS San Antonio
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwwQbdvCmES5YPmfrIh4KPsXmSnsb_NJHT5jetGIP1QN/ts
+#EXTINF:-1,USA | CBS San Diego
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwwQbdvCmES5YPmfrIh4KPu3ducJQeOx4NTBrR2a_dyK/ts
+#EXTINF:-1,USA | CBS San Francisco
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwwQbdvCmES5YPmfrIh4KPuqPsa3MoRNEIOCibVoNgXV/ts
+#EXTINF:-1,USA | CBS Seattle
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwwQbdvCmES5YPmfrIh4KPv_v1Bx3MxkNcsgEVSOS2xc/ts
+#EXTINF:-1,USA | CBS St Louis
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwwQbdvCmES5YPmfrIh4KPseATaQVpbbd0q4lMpikfPu/ts
+#EXTINF:-1,USA | CBS Tallahassee
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwwQbdvCmES5YPmfrIh4KPtoqAyHf1IXzP4-7ch-mDpe/ts
+#EXTINF:-1,USA | CBS Tampa
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwwQbdvCmES5YPmfrIh4KPt3Jqc7R_QMn05p4qWFtqoE/ts
+#EXTINF:-1,USA | CBS Washington
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwwQbdvCmES5YPmfrIh4KPuOgj9WJYHMs4qgO39-uAT3/ts
+#EXTINF:-1,USA | CBS WMAZ Macon GA
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-5EasBVgFWvQrd8s00IPd_b92Pms8nKTlucJs223Idc/ts
+#EXTINF:-1,USA | ABC Atlanta
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-5EasBVgFWvQrd8s00IPd9eJrwgb8d2Kd2JLEEz5EC7/ts
+#EXTINF:-1,USA | ABC Baltimore
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-5EasBVgFWvQrd8s00IPd_7h0yevIRwo27rDb-qJQgN/ts
+#EXTINF:-1,USA | ABC Boston
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-5EasBVgFWvQrd8s00IPd_xHE-GlJ6ywfeqNH1K1tOo/ts
+#EXTINF:-1,USA | ABC Buffalo
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-5EasBVgFWvQrd8s00IPd-RzeJyQ1jjdEG7HTsWUkiF/ts
+#EXTINF:-1,USA | ABC Charlotte
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-5EasBVgFWvQrd8s00IPd_IsapW49MjXWFONpR9ajYy/ts
+#EXTINF:-1,USA | ABC Chicago
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-5EasBVgFWvQrd8s00IPd_gRt8rUYo8yd-zfto9PqZf/ts
+#EXTINF:-1,USA | ABC Cleveland
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-5EasBVgFWvQrd8s00IPd8NkqE-t4I0VH3DzqyWgftn/ts
+#EXTINF:-1,USA | ABC Connecticut
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-5EasBVgFWvQrd8s00IPd_5_vmX8o3RFAh3m6gQNQua/ts
+#EXTINF:-1,USA | ABC Dallas
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-5EasBVgFWvQrd8s00IPd9O7pHMNVGQvLjfKUPbbWeY/ts
+#EXTINF:-1,USA | ABC Denver
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzOTlKBECvcPAMGrdIWKuswKr0s0Ay_bp5tRGJSzjAYu/ts
+#EXTINF:-1,USA | ABC Detroit
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzOTlKBECvcPAMGrdIWKuszVBMBvAuaxWUcGFXJpYXo7/ts
+#EXTINF:-1,USA | ABC Durham
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzOTlKBECvcPAMGrdIWKusx-ZtTRXQomoPtGcf6ZLaMw/ts
+#EXTINF:-1,USA | ABC EL PASO
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzOTlKBECvcPAMGrdIWKuszhyjK69MsJvzl2GxQcSWpI/ts
+#EXTINF:-1,USA | ABC Fresno
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzOTlKBECvcPAMGrdIWKusxw2kVahEKqsGV8o5Jm2gcQ/ts
+#EXTINF:-1,USA | ABC Hartford
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzOTlKBECvcPAMGrdIWKusz4ve_UvSL8yLKEWW05mvXj/ts
+#EXTINF:-1,USA | ABC Houston
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzOTlKBECvcPAMGrdIWKusxMO51G1BljTrui0JIm7fuT/ts
+#EXTINF:-1,USA | ABC Indianapolis
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzOTlKBECvcPAMGrdIWKusyvcAQmimNr2T87RLoJY1tQ/ts
+#EXTINF:-1,USA | ABC Kansas City
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzOTlKBECvcPAMGrdIWKuswyK_3zLagQdK6yv7qrapv5/ts
+#EXTINF:-1,USA | ABC Los Angeles
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzOTlKBECvcPAMGrdIWKusyIV7xIvpi-udlfkNrZvYgU/ts
+#EXTINF:-1,USA | ABC Miami
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkx2t3GB29zB-_qUqCxejPupgxbOo2YdIGr4H04AQ21Gi/ts
+#EXTINF:-1,USA | ABC Milwaukee
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkx2t3GB29zB-_qUqCxejPup4tZsgJaTYUmyfABt-IZCM/ts
+#EXTINF:-1,USA | ABC Nashville
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkx2t3GB29zB-_qUqCxejPur9AdSvJFfXMo8CatPnu5EF/ts
+#EXTINF:-1,USA | ABC New York
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkx2t3GB29zB-_qUqCxejPuriSS-mkHV6gcQvAo0q6tK9/ts
+#EXTINF:-1,USA | ABC Orlando
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkx2t3GB29zB-_qUqCxejPuo7fL2QuEXJpKpZm85QvMuu/ts
+#EXTINF:-1,USA | ABC Philadelphia
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkx2t3GB29zB-_qUqCxejPuqoQVWcGoXIm7z0XhZvF7Kt/ts
+#EXTINF:-1,USA | ABC Phoenix
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkx2t3GB29zB-_qUqCxejPuppSE4qOzqhVsQYCtWV0Zjn/ts
+#EXTINF:-1,USA | ABC Pittsburgh
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkx2t3GB29zB-_qUqCxejPupclAApcvOL4UfP44MRIWME/ts
+#EXTINF:-1,USA | ABC Portland
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkx2t3GB29zB-_qUqCxejPup08jtnJY6tReWBdwDiRNkF/ts
+#EXTINF:-1,USA | ABC Sacramento
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkx2t3GB29zB-_qUqCxejPurzs5fVqv870bl0pRtwHsSM/ts
+#EXTINF:-1,USA | ABC Saint Paul
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyvqKsViRll_ZzqRmOcLX6NCfju2WNG_ACjgd5tDyPq0/ts
+#EXTINF:-1,USA | ABC Salt lake city
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyvqKsViRll_ZzqRmOcLX6OApAJfNQpG-3vkLOjyjHGf/ts
+#EXTINF:-1,USA | ABC San Antonio
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyvqKsViRll_ZzqRmOcLX6PTn_ibzlnduUhQo8dJchqu/ts
+#EXTINF:-1,USA | ABC San Diego
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyvqKsViRll_ZzqRmOcLX6NSaR7au__OcmvHxF6GV7-G/ts
+#EXTINF:-1,USA | ABC San Francisco
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyvqKsViRll_ZzqRmOcLX6PT7vS5y84XSSr3tySVO3nJ/ts
+#EXTINF:-1,USA | ABC Seattle
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyvqKsViRll_ZzqRmOcLX6Ml-ue5eRZJdQVMovIxgPI_/ts
+#EXTINF:-1,USA | ABC SPRINGFIELD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyvqKsViRll_ZzqRmOcLX6ODZwZ3OHvVnOh_ItWOK2E-/ts
+#EXTINF:-1,USA | ABC St Louis
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyvqKsViRll_ZzqRmOcLX6Nu8ypmtfAaigYZ-s-6QLFm/ts
+#EXTINF:-1,USA | ABC Tampa Bay
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyvqKsViRll_ZzqRmOcLX6NR0T6ifwl1o67RChWO6Z1I/ts
+#EXTINF:-1,USA | ABC Washington
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkyvqKsViRll_ZzqRmOcLX6PzMx4HR5L0uqMqMrU5Lr9_/ts
+#EXTINF:-1,CA | A&E
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7dk3jiMfROgr1L_3BoL1mSTCgcACMSj4yJYxc0Dmkev/ts
+#EXTINF:-1,CA | ABC SPARK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7dk3jiMfROgr1L_3BoL1mRUpV25enFolrzAIr5Bmwy_/ts
+#EXTINF:-1,CA | ADDIK TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7dk3jiMfROgr1L_3BoL1mQy_CYXdKoliLCC_GEV1HdV/ts
+#EXTINF:-1,CA | ADULT SWIM
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxfWJj_GB6__1d26cAoT-IhSlE6MAjP1crpxHgom95te/ts
+#EXTINF:-1,CA | AMAZING DISCOVERIES TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxfWJj_GB6__1d26cAoT-IgwSmnlW4aOtQwCKXImYg8n/ts
+#EXTINF:-1,CA | AMC
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxfWJj_GB6__1d26cAoT-IgoPTfj0Mbudp21LFZhH9d7/ts
+#EXTINF:-1,CA | AMI
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxfWJj_GB6__1d26cAoT-IgQtqDin7UkvuXCiZHFQKCF/ts
+#EXTINF:-1,CA | ANIMAL PLANET
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxfWJj_GB6__1d26cAoT-Ij6Bt8OAbLtRzJx290dzhE2/ts
+#EXTINF:-1,CA | APTN W
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxfWJj_GB6__1d26cAoT-IjKdtVQ7A2J352MxeTSVoNp/ts
+#EXTINF:-1,CA | BNN BLOOMBERG
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxfWJj_GB6__1d26cAoT-Ih5GDJ8p2_R_MNmg5OdntXI/ts
+#EXTINF:-1,CA | CANAL D
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxfWJj_GB6__1d26cAoT-IizSokj252e5oktJRHrRYh8/ts
+#EXTINF:-1,CA | CANAL SAVOIR
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxfWJj_GB6__1d26cAoT-Ij0UztMCQb1KKOaQ-2tgCcE/ts
+#EXTINF:-1,CA | CANAL VIE FR
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkxfWJj_GB6__1d26cAoT-IiYDLpMccSnerfK1pU5aXyX/ts
+#EXTINF:-1,CA | CARTOON NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzlt8npH_mV2dvsg3Wwok_8jU0oDxk3r953ul6wuBjET/ts
+#EXTINF:-1,CA | CASA FR
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzlt8npH_mV2dvsg3Wwok_-q0hoT5zcifJa5vsZxpjty/ts
+#EXTINF:-1,CA | CBC CALGARY DT
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzlt8npH_mV2dvsg3Wwok__PYN6SrVC2ZNNOFVFv6MzT/ts
+#EXTINF:-1,CA | CBC CHARLOTTETOWN
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzlt8npH_mV2dvsg3Wwok_-FTLllnwzT8WrIZogfgWE1/ts
+#EXTINF:-1,CA | CBC EDMONTON
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzlt8npH_mV2dvsg3Wwok_8NXaE5j4UbMNSdJpfi4n-c/ts
+#EXTINF:-1,CA | CBC HALIFAX
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzlt8npH_mV2dvsg3Wwok_-5Rn7ScG6VGLnCVOonvM8R/ts
+#EXTINF:-1,CA | CBC MONTREAL
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzlt8npH_mV2dvsg3Wwok__LzcQMQMUgFUm4eZ-IXOJG/ts
+#EXTINF:-1,CA | CBC NEW BRUNSWICK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzlt8npH_mV2dvsg3Wwok__9_hXA-TzCyky0L4qCmGum/ts
+#EXTINF:-1,CA | CBC NEWS NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzlt8npH_mV2dvsg3Wwok_8Wei4Zt4dXGd5w0bYYd5DQ/ts
+#EXTINF:-1,CA | CBC OTTAWA
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzlt8npH_mV2dvsg3Wwok_-1RnL2eRe7alkYGhZdy2fB/ts
+#EXTINF:-1,CA | CBC REGINA
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2CIAfh8P36RzT5uUqIl5nphh7uVQ9rQVaVD4ACu0Rkw/ts
+#EXTINF:-1,CA | CBC ST JOHNS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2CIAfh8P36RzT5uUqIl5npH23tgwnfoEkyY2gw-IQza/ts
+#EXTINF:-1,CA | CBC TORONTO
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2CIAfh8P36RzT5uUqIl5npA1HLQ_xNNP9-ldizRPgAx/ts
+#EXTINF:-1,CA | CBC VANCOUVER
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2CIAfh8P36RzT5uUqIl5no2NRlbKVxSLNaexyyeYuVc/ts
+#EXTINF:-1,CA | CBC WINDSOR
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2CIAfh8P36RzT5uUqIl5noUJz3FR-n1IDCt8tFVGZPF/ts
+#EXTINF:-1,CA | CBC WINNIPEG
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2CIAfh8P36RzT5uUqIl5nrEKYc5_SZswPNmVZmkM-UA/ts
+#EXTINF:-1,CA | CBC YELLOWKNIFE
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2CIAfh8P36RzT5uUqIl5nrpdM08VN_KiAnhmOHKfPn3/ts
+#EXTINF:-1,CA | CBS EAST
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2CIAfh8P36RzT5uUqIl5nrCFSr-Nq7X5SVUX3WXYkxK/ts
+#EXTINF:-1,CA | CHCH TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2CIAfh8P36RzT5uUqIl5nqYV19mqS-coyHPA3f6fQ3C/ts
+#EXTINF:-1,CA | CINEPOP
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2CIAfh8P36RzT5uUqIl5no5L3NP7xfH-vsTZYFeDcCq/ts
+#EXTINF:-1,CA | CITYNEWS TORONTO
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7fql2GUvFDhSAJet-SngaHlRbQP91oEf4bnuN7HtTkG/ts
+#EXTINF:-1,CA | CITYTV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7fql2GUvFDhSAJet-SngaGNAv9GWhvcdY8jHKbVOxaS/ts
+#EXTINF:-1,CA | CMT
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7fql2GUvFDhSAJet-SngaGQOwszXccuyvBYkvtt7QVZ/ts
+#EXTINF:-1,CA | CNBC
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7fql2GUvFDhSAJet-SngaFnP04wDiaVF_CjNzjqObMF/ts
+#EXTINF:-1,CA | COOKING CHANNEL
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7fql2GUvFDhSAJet-SngaHTC7V6dDQfIQIf5C6DPP0T/ts
+#EXTINF:-1,CA | COTTAGE LIFE TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7fql2GUvFDhSAJet-SngaGObvvKelo3aSpxcGCekwMu/ts
+#EXTINF:-1,CA | CP 24
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7fql2GUvFDhSAJet-SngaG5pv2YIOulDmFaAo29J64l/ts
+#EXTINF:-1,CA | CPAC
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7fql2GUvFDhSAJet-SngaH0s5lTNgQICnprUYudkabr/ts
+#EXTINF:-1,CA | CRAVE 1
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7fql2GUvFDhSAJet-SngaFEJtqPPm5S_zFLD50bl49V/ts
+#EXTINF:-1,CA | CRAVE 2
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7fql2GUvFDhSAJet-SngaEmrvCnm0ai2d97B6CbkfI7/ts
+#EXTINF:-1,CA | CRAVE 3
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4aTqotzB6-Frcx_tjlf01ZAoVF-VU7jCDa0eZIlVCuo/ts
+#EXTINF:-1,CA | CRAVE 4
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4aTqotzB6-Frcx_tjlf01aVCFPBoc8qRE8htA5PtC3X/ts
+#EXTINF:-1,CA | CRIME+ INVESTIGATION
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4aTqotzB6-Frcx_tjlf01bonud4xwxHncy0WYl9C-qQ/ts
+#EXTINF:-1,CA | CTV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4aTqotzB6-Frcx_tjlf01YY3WQfMscEkBSGBdVZP-BG/ts
+#EXTINF:-1,CA | CTV 2
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4aTqotzB6-Frcx_tjlf01bHoYsR0j1atihPj2BBFA79/ts
+#EXTINF:-1,CA | CTV 2 ATLANTIC
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4aTqotzB6-Frcx_tjlf01a1XxoOuTQ6H6cgkNILbqsH/ts
+#EXTINF:-1,CA | CTV 2 BARRIE
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4aTqotzB6-Frcx_tjlf01YVRJouTuM2De3ifREyUrVY/ts
+#EXTINF:-1,CA | CTV 2 LONDON
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4aTqotzB6-Frcx_tjlf01bgV7DKNtHps7oEFPZkub-q/ts
+#EXTINF:-1,CA | CTV 2 OTTAWA
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4aTqotzB6-Frcx_tjlf01Z83SxkOu2eDh5fbFgEn0j4/ts
+#EXTINF:-1,CA | CTV CALGARY
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4aTqotzB6-Frcx_tjlf01YjXGQwe8qPzVyMO3Gs3zLP/ts
+#EXTINF:-1,CA | CTV COMEDY CHANNEL
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwE5Vmk0oPB5o5rlglNLvadbhXBVfidf4T13FEJKFpC5/ts
+#EXTINF:-1,CA | CTV DRAMA CHANNEL
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwE5Vmk0oPB5o5rlglNLvaeQad6PrFPuUCBmoA0kfIU7/ts
+#EXTINF:-1,CA | CTV NEWS CHANNEL
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwE5Vmk0oPB5o5rlglNLvadLeKalXGPtWzLO5acp6irs/ts
+#EXTINF:-1,CA | CTV SCI-FI
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwE5Vmk0oPB5o5rlglNLvadWkRIPinWeiz5C7DORFlRP/ts
+#EXTINF:-1,CA | DEJAVIEW
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwE5Vmk0oPB5o5rlglNLvadaGMpJY-WI8agADmn3nmgg/ts
+#EXTINF:-1,CA | DISCOVERY SCIENCE
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwE5Vmk0oPB5o5rlglNLvafRFCWEF3egjOtvWpF35q0Y/ts
+#EXTINF:-1,CA | DISCOVERY VELOCITY
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwE5Vmk0oPB5o5rlglNLvafo1YExO92wc2SrqDqu731K/ts
+#EXTINF:-1,CA | DISNEY CHANNEL
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwE5Vmk0oPB5o5rlglNLvadL05XtZx_Qt9wI_a0SPftN/ts
+#EXTINF:-1,CA | DISNEY JUNIOR FR
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwE5Vmk0oPB5o5rlglNLvafFThmTXJAAbXxnZwB_h6qx/ts
+#EXTINF:-1,CA | DISNEY XD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwE5Vmk0oPB5o5rlglNLvafg6s00oRXGPaaoW7ffMYD8/ts
+#EXTINF:-1,CA | DTOUR
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkynBg6i2PMHjI_ksuoh88GKzp1Z8FDWRxr7bt96pjwpy/ts
+#EXTINF:-1,CA | E!
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkynBg6i2PMHjI_ksuoh88GKSfX-ILzUr5CxTSVkYch7h/ts
+#EXTINF:-1,CA | ELLE FICTIONS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkynBg6i2PMHjI_ksuoh88GKJFO_9Px-OP8LxRa0Ab-jL/ts
+#EXTINF:-1,CA | EVASION
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkynBg6i2PMHjI_ksuoh88GLFGva3rM7_73cpG-UzbBRo/ts
+#EXTINF:-1,CA | EWTN
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkynBg6i2PMHjI_ksuoh88GJV2gjKzpqL5UtBXfIQGofy/ts
+#EXTINF:-1,CA | FAMILY
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkynBg6i2PMHjI_ksuoh88GIMa39Ui2nDfbVNiP7lvDzD/ts
+#EXTINF:-1,CA | FAMILY JR
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkynBg6i2PMHjI_ksuoh88GJztdoKuL3Xpeo_7XoUpnnr/ts
+#EXTINF:-1,CA | FIGHT NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkynBg6i2PMHjI_ksuoh88GKvPDo2cXltZSLAarA-DTiU/ts
+#EXTINF:-1,CA | FOOD NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkynBg6i2PMHjI_ksuoh88GLgB4yX70hptkY4Qmqs6rTl/ts
+#EXTINF:-1,CA | FX
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkynBg6i2PMHjI_ksuoh88GLHkoy2YGH7OtHe-2UtiNQ4/ts
+#EXTINF:-1,CA | FXX
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7htmitQavBMBCW1-UKwsq_DWesWEwg3_NqmrZsXLyjt/ts
+#EXTINF:-1,CA | GAME TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7htmitQavBMBCW1-UKwsq9Bo4vzNdwWopwiMrMYq4Wr/ts
+#EXTINF:-1,CA | GLOBAL TV BC
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7htmitQavBMBCW1-UKwsq9opSAlqvfDBO6tpZlbtMyR/ts
+#EXTINF:-1,CA | GLOBAL TV CALGARY
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7htmitQavBMBCW1-UKwsq_IvYOq859GvGnPInLBI3qp/ts
+#EXTINF:-1,CA | GLOBAL TV EDMONTON
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7htmitQavBMBCW1-UKwsq_TAR76U54339p6BLngqXM8/ts
+#EXTINF:-1,CA | GLOBAL TV HALIFAX
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7htmitQavBMBCW1-UKwsq9FGMPU2My5GxCtjhQEg7Wj/ts
+#EXTINF:-1,CA | GLOBAL TV KINGSTON
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7htmitQavBMBCW1-UKwsq-6Zg2vg9CPtzRRYDkkt4eG/ts
+#EXTINF:-1,CA | GLOBAL TV MONTREAL
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7htmitQavBMBCW1-UKwsq-NaQfYyb_efm3BLMA1vSqH/ts
+#EXTINF:-1,CA | GLOBAL TV NEWS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7htmitQavBMBCW1-UKwsq9d668bHvMsQsFKyg8YZiKv/ts
+#EXTINF:-1,CA | GLOBAL TV OKANAGAN
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7htmitQavBMBCW1-UKwsq98GMUkLgSgWXOFSzXwHPIU/ts
+#EXTINF:-1,CA | GLOBAL TV PETERBOROUGH
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4npvImtJaFIK3MKQuOWmIoUz7Pdl5x6PvBc6AEwUiLF/ts
+#EXTINF:-1,CA | GLOBAL TV SASKATOON
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4npvImtJaFIK3MKQuOWmIrJ7ZlxSzIxNjaudKqM8DxU/ts
+#EXTINF:-1,CA | GLOBAL TV TORONTO
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4npvImtJaFIK3MKQuOWmIrI-wSgvZer6K21hPFbQf2f/ts
+#EXTINF:-1,CA | GSN
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4npvImtJaFIK3MKQuOWmIq5rYJDRjEmBmQKe3p50E3o/ts
+#EXTINF:-1,CA | HARD KNOCKS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4npvImtJaFIK3MKQuOWmIo8cpc1Qpm82PUZUQ--WmX2/ts
+#EXTINF:-1,CA | HBO 1
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4npvImtJaFIK3MKQuOWmIpE2ZR8JUVoB_ypO2zi1yiP/ts
+#EXTINF:-1,CA | HBO 2
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4npvImtJaFIK3MKQuOWmIq89NdPl1L8_z6B2fTI7qFq/ts
+#EXTINF:-1,CA | HBO SIGNATURE
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4npvImtJaFIK3MKQuOWmIrE1Hj1zS7YwgSysoXEbSmT/ts
+#EXTINF:-1,CA | HGTV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4npvImtJaFIK3MKQuOWmIotPa9PcJKjPkJPT-1To7dh/ts
+#EXTINF:-1,CA | HISTORY
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4npvImtJaFIK3MKQuOWmIrCxVIH-BrCq8KkuxegBb_I/ts
+#EXTINF:-1,CA | ICI AR TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-EcedCFn-Sk2bblLgkCkH9TAJ1Kiuj7qwwu7e6nlsAb/ts
+#EXTINF:-1,CA | ICI RADIO CANADA TELE MONTREAL
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-EcedCFn-Sk2bblLgkCkH8b-C3qb_h-LGkrE5n5ZeKy/ts
+#EXTINF:-1,CA | ICI RDI FR
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-EcedCFn-Sk2bblLgkCkH_l1SIWpSQ7GlRr7Xuup02o/ts
+#EXTINF:-1,CA | Ici TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-EcedCFn-Sk2bblLgkCkH978As-jYYQQlqzRkrCwik8/ts
+#EXTINF:-1,CA | ICI VANCOUVER FR
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-EcedCFn-Sk2bblLgkCkH_e5OwGri2NH95-jgPXwYll/ts
+#EXTINF:-1,CA | INVESTIGATION DISCOVERY
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-EcedCFn-Sk2bblLgkCkH_03y9PaINBQ8gHk-RcgJ2W/ts
+#EXTINF:-1,CA | KNOWLEDGE KIDS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-EcedCFn-Sk2bblLgkCkH_y8xW71C5u-3gI5-zPJIEU/ts
+#EXTINF:-1,CA | LCN
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-EcedCFn-Sk2bblLgkCkH_OBLZPsfbOXibmLs3HLPdk/ts
+#EXTINF:-1,CA | LIFETIME
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-EcedCFn-Sk2bblLgkCkH__0WPe0FL5SYvRjIHgzkwS/ts
+#EXTINF:-1,CA | LOVE NATURE
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-EcedCFn-Sk2bblLgkCkH_-QN4W6cgg-ExyvIveNlHj/ts
+#EXTINF:-1,CA | MAKEFUL TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5s_TXh04nnr6t-h2uANZJxO6N7aguYW0C7eYKiUB_ab/ts
+#EXTINF:-1,CA | MIRACLE CHANNEL
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5s_TXh04nnr6t-h2uANZJzHBc_GFvpfWnTUZ03DLCyU/ts
+#EXTINF:-1,CA | MOI & CIE FR
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5s_TXh04nnr6t-h2uANZJwuSerExnuMDwneFz7XEoxc/ts
+#EXTINF:-1,CA | MOVIE TIME
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5s_TXh04nnr6t-h2uANZJz6nGY5NbowZt5g63WF-9fh/ts
+#EXTINF:-1,CA | MTV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5s_TXh04nnr6t-h2uANZJzxl0798IJdaSiXr3uL5RAZ/ts
+#EXTINF:-1,CA | MUCH TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5s_TXh04nnr6t-h2uANZJwiSHKl_TPVIxahy6UOr8sq/ts
+#EXTINF:-1,CA | MY CINEMA 1
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5s_TXh04nnr6t-h2uANZJwRY_ESfn4z4LgDBkXdVYrS/ts
+#EXTINF:-1,CA | MY CINEMA 2
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5s_TXh04nnr6t-h2uANZJw5PlreOtO5DQ0PmxCPyOFH/ts
+#EXTINF:-1,CA | MY CINEMA 3
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5s_TXh04nnr6t-h2uANZJxFfM9iu_z8xq7E0FKLniFY/ts
+#EXTINF:-1,CA | MY CINEMA 4
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5s_TXh04nnr6t-h2uANZJw-SoeJkv9LHR3Xgy0B1x80/ts
+#EXTINF:-1,CA | MY CINEMA 5
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4k2nXF0X57CG0kdUT9jIPnvILVqzZKCi5occffh7kuB/ts
+#EXTINF:-1,CA | MY CINEMA 6
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4k2nXF0X57CG0kdUT9jIPkU2j8xF-5U5gABxkNMSkbd/ts
+#EXTINF:-1,CA | MY CINEMA 7
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4k2nXF0X57CG0kdUT9jIPlEkNMTDFWg_wW2LtsNu9ST/ts
+#EXTINF:-1,CA | MY CINEMA 8
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4k2nXF0X57CG0kdUT9jIPmjBTiL8xd9aG3nBQxHrtma/ts
+#EXTINF:-1,CA | MY CINEMA 9
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4k2nXF0X57CG0kdUT9jIPk8AAsKN7U7468lh7tJPwLb/ts
+#EXTINF:-1,CA | NAT GEO
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4k2nXF0X57CG0kdUT9jIPmoiH03_2_as7W2CDupmnR2/ts
+#EXTINF:-1,CA | NAT GEO WILD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4k2nXF0X57CG0kdUT9jIPm8Sh7V7HQ0Og3g3FDdTqvG/ts
+#EXTINF:-1,CA | NBA TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4k2nXF0X57CG0kdUT9jIPnUlSL0ANbbdn7SDJL6Da4B/ts
+#EXTINF:-1,CA | NEWFOUNDLAND TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4k2nXF0X57CG0kdUT9jIPlu9BWzYCi7wpYwaF5CW4zH/ts
+#EXTINF:-1,CA | NICKELODEON
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4k2nXF0X57CG0kdUT9jIPmt8uhw4C_kL1F67n0cnHUi/ts
+#EXTINF:-1,CA | OLN
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkygKv4s2wIsVrRSwg1xYl5DFvw7hqVfxv4-4XtAdaXtw/ts
+#EXTINF:-1,CA | ONE
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkygKv4s2wIsVrRSwg1xYl5BqiqduQC2ACj7sk1GJt0FV/ts
+#EXTINF:-1,CA | OPRAH WINFREY NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkygKv4s2wIsVrRSwg1xYl5AQKOdwT878bbicQJP5KYV4/ts
+#EXTINF:-1,CA | OUT TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkygKv4s2wIsVrRSwg1xYl5BN4wmsHzpl0RhAre7VfQS_/ts
+#EXTINF:-1,CA | PARAMOUNT NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkygKv4s2wIsVrRSwg1xYl5DI-wwZqgELKTkrY02Qh1Pn/ts
+#EXTINF:-1,CA | PLAYERS TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkygKv4s2wIsVrRSwg1xYl5DGeFhctWJWFrtNBZwMuizX/ts
+#EXTINF:-1,CA | PRISE 2 FR
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkygKv4s2wIsVrRSwg1xYl5AenHxGOjr7h6Rfz3q9Bkys/ts
+#EXTINF:-1,CA | QVTV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkygKv4s2wIsVrRSwg1xYl5BXWGk0vgOHkPKOKnJnV78P/ts
+#EXTINF:-1,CA | RDS 2
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkygKv4s2wIsVrRSwg1xYl5AQtN6hiqCrRUByQ0CyneWv/ts
+#EXTINF:-1,CA | RDS INFO
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkygKv4s2wIsVrRSwg1xYl5DvaMrWWUVGhrlhbBHidMgj/ts
+#EXTINF:-1,CA | ROGERS TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8KwOtBFFVRcvqDf4t_FUHkI8eSDwwM-QgUV8WTCMtul/ts
+#EXTINF:-1,CA | SALT+ LIGHT TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8KwOtBFFVRcvqDf4t_FUHlmVDfo0cwPhZ7xhiJp_QAc/ts
+#EXTINF:-1,CA | SERIES PLUS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8KwOtBFFVRcvqDf4t_FUHnDvWPP5PzbBrZxGjOQ0Ond/ts
+#EXTINF:-1,CA | SHOWCASE
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8KwOtBFFVRcvqDf4t_FUHmEm3dqIb0XpOlnwKDJhGyk/ts
+#EXTINF:-1,CA | SILVER SCREEN CLASSIC
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8KwOtBFFVRcvqDf4t_FUHkrBO8mmnjlQ0BRzP5zWWw3/ts
+#EXTINF:-1,CA | SLICE
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8KwOtBFFVRcvqDf4t_FUHnWmDXN9ysfqkAzcZmtTPNP/ts
+#EXTINF:-1,CA | SMITHSONIAN CHANNEL
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8KwOtBFFVRcvqDf4t_FUHm7M7O8mpUXg2RyBstzm2-u/ts
+#EXTINF:-1,CA | SP | BEIN SPORTS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8KwOtBFFVRcvqDf4t_FUHl0mHVNFz5q0GccnBlsJguA/ts
+#EXTINF:-1,CA | SPORTNET 360
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8KwOtBFFVRcvqDf4t_FUHkS-cBI1etEjcEx0OUgJ-Tc/ts
+#EXTINF:-1,CA | SPORTNET EAST
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8KwOtBFFVRcvqDf4t_FUHlV_SS_dRhj6i8v5xG22laZ/ts
+#EXTINF:-1,CA | SPORTNET NEW YORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8wEcbnOM5DFsdAsrpuMXLqdKC-v6a0kWam_mXvgpj5j/ts
+#EXTINF:-1,CA | SPORTNET ONE
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8wEcbnOM5DFsdAsrpuMXLptCtU-g582cMyH4v12fJsQ/ts
+#EXTINF:-1,CA | SPORTNET ONTARIO
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8wEcbnOM5DFsdAsrpuMXLpOBrh9GDsiAUImjncs_Oqw/ts
+#EXTINF:-1,CA | SPORTNET PACIFIC
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8wEcbnOM5DFsdAsrpuMXLpzULE_1Tv8ozDwFkRv8Of4/ts
+#EXTINF:-1,CA | SPORTNET PPV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8wEcbnOM5DFsdAsrpuMXLr6VS85_A__r60__HWbv-tc/ts
+#EXTINF:-1,CA | SPORTNET SPECTRUM
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8wEcbnOM5DFsdAsrpuMXLrI6ARxxxcFOkVFAsCZMFN1/ts
+#EXTINF:-1,CA | SPORTNET WEST
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8wEcbnOM5DFsdAsrpuMXLponWpwxZKhQ0s--hJEGiLc/ts
+#EXTINF:-1,CA | SPORTNET WORLD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8wEcbnOM5DFsdAsrpuMXLpV_GVAml7t6iI-jc7itFQ1/ts
+#EXTINF:-1,CA | STINGRAY ICONCERTS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8wEcbnOM5DFsdAsrpuMXLozXDi-iblDF9qaxYQVcJ3b/ts
+#EXTINF:-1,CA | SUPER CHANNEL FUSE
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8wEcbnOM5DFsdAsrpuMXLp7Qn31lxxNp0FJ__c89mLW/ts
+#EXTINF:-1,CA | SUPER CHANNEL HEART & HOME
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2PtTKyes7A2K13tgYDvgg5x8n3wxitV4BBpkUE1ms3J/ts
+#EXTINF:-1,CA | SUPER CHANNEL VAULT
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2PtTKyes7A2K13tgYDvgg7yJv6610BUWQj0GmKtcrmI/ts
+#EXTINF:-1,CA | SUPER ECRAN 1
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2PtTKyes7A2K13tgYDvgg4NNMVq59gV2uJwawUr2qOT/ts
+#EXTINF:-1,CA | SUPER ECRAN 2
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2PtTKyes7A2K13tgYDvgg65MeLAdXXZXKRD2OKx9T-m/ts
+#EXTINF:-1,CA | SUPER ECRAN 3
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2PtTKyes7A2K13tgYDvgg7ULBOsOnb6UCIZzmO9TqJx/ts
+#EXTINF:-1,CA | SUPER ECRAN 4
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2PtTKyes7A2K13tgYDvgg68yj8fIOvdXh2vlzQisFUP/ts
+#EXTINF:-1,CA | TCM
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2PtTKyes7A2K13tgYDvgg7WuKAfg5fenwSdVEBx7vkh/ts
+#EXTINF:-1,CA | TELE QUEBEC
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2PtTKyes7A2K13tgYDvgg66-PUA0CfJFGy0AFZM-jpR/ts
+#EXTINF:-1,CA | TELE TOON
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2PtTKyes7A2K13tgYDvgg7Z16-Eu1q5bL8et0veRllE/ts
+#EXTINF:-1,CA | TELEAMIGO
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2PtTKyes7A2K13tgYDvgg5hG4AMPI91dw-ofPxNfD4z/ts
+#EXTINF:-1,CA | THE SHOPPING CHANNEL
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8fhcMg04rZmdlWQ5SCCoUI9eCxZXtd0j7xl96xbcb-x/ts
+#EXTINF:-1,CA | THE WEATHER NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8fhcMg04rZmdlWQ5SCCoUKh-zA41wyaRnyXZFEHI9EY/ts
+#EXTINF:-1,CA | TLC
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8fhcMg04rZmdlWQ5SCCoUL5UFSmHbMmU1oj5r4yXjbO/ts
+#EXTINF:-1,CA | TRAVEL ESCAPE
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8fhcMg04rZmdlWQ5SCCoULYSjd6ZY4om0MJUPih4jxW/ts
+#EXTINF:-1,CA | TREEHOUSE TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8fhcMg04rZmdlWQ5SCCoUJUTkxYO_RfgKw3TvibiiIT/ts
+#EXTINF:-1,CA | TSC
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8fhcMg04rZmdlWQ5SCCoUKwdQbNEfNp1mJ4XmvhlrQy/ts
+#EXTINF:-1,CA | TSN 1
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8fhcMg04rZmdlWQ5SCCoUJO2xejF2pj-Y964JDFTN7t/ts
+#EXTINF:-1,CA | TSN 2
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8fhcMg04rZmdlWQ5SCCoUJmXmVLUvbj7bzL3GKkyLee/ts
+#EXTINF:-1,CA | TSN 3
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8fhcMg04rZmdlWQ5SCCoUKOynbGwWR-919Xz_VD2FMm/ts
+#EXTINF:-1,CA | TSN 4
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8fhcMg04rZmdlWQ5SCCoULlP6OStclOqalUmV2TdE_P/ts
+#EXTINF:-1,CA | TSN 5
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk75G8dUPbYiCrtP4mWgUa-4VoT_KLtkk3y3Dq0Im5a11/ts
+#EXTINF:-1,CA | TV FRANCOPHONIE
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk75G8dUPbYiCrtP4mWgUa-7oEGN86A-PLsN8l534ZFPC/ts
+#EXTINF:-1,CA | TV5 QUEBEC
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk75G8dUPbYiCrtP4mWgUa-7x9KVC-tXtvtFmbxlGlQqX/ts
+#EXTINF:-1,CA | TVA MONTREAL
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk75G8dUPbYiCrtP4mWgUa-4gc93NTd5wtnEmGLwZ9Ex9/ts
+#EXTINF:-1,CA | TVA SPORTS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk75G8dUPbYiCrtP4mWgUa-67JBFMpio3pdReTNFqALuS/ts
+#EXTINF:-1,CA | TVA SPORTS 2
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk75G8dUPbYiCrtP4mWgUa-77c6dKGrxea4M75Mf7kcvj/ts
+#EXTINF:-1,CA | TVO KIDS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk75G8dUPbYiCrtP4mWgUa-4IoobjNSxMXtKBNT73Blka/ts
+#EXTINF:-1,CA | UNIS TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk75G8dUPbYiCrtP4mWgUa-4kB25NNWtDhZv96JF4vKTT/ts
+#EXTINF:-1,CA | UVAGUT TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk75G8dUPbYiCrtP4mWgUa-5QGvzuNVKR3JuCq3z6Ihp0/ts
+#EXTINF:-1,CA | VISION TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk75G8dUPbYiCrtP4mWgUa-6x0QhDf-0QVz24XDV13VW9/ts
+#EXTINF:-1,CA | VRAK TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1K-teN36GY37pG0CxNzsVFx57iVeL0FprVWYCPF9qI7/ts
+#EXTINF:-1,CA | W NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1K-teN36GY37pG0CxNzsVGSQJXJrE3ms8ytkgLRoT2G/ts
+#EXTINF:-1,CA | WEATHERSPRAY
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1K-teN36GY37pG0CxNzsVF0jJHYCcCkrLriflB0281V/ts
+#EXTINF:-1,CA | WILD TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1K-teN36GY37pG0CxNzsVEdXiFerJpPQDNRnp9ygX6P/ts
+#EXTINF:-1,CA | WILDBRAIND TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1K-teN36GY37pG0CxNzsVFbR6w17RsMKgV_jcZTzBJS/ts
+#EXTINF:-1,CA | WORLD FISHING NETWORK
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1K-teN36GY37pG0CxNzsVEC6mJ38s76VOVDi_2o0CuV/ts
+#EXTINF:-1,CA | YES TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1K-teN36GY37pG0CxNzsVHddqjAPKlb5kkrSlzKHAyV/ts
+#EXTINF:-1,CA | YOOPA
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1K-teN36GY37pG0CxNzsVFx4CqpMkGMrK5ks1wuuK2N/ts
+#EXTINF:-1,CA | YTV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1K-teN36GY37pG0CxNzsVF4WZABuevEFkXwqwSCuX64/ts
+#EXTINF:-1,CA | Z TELE
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1K-teN36GY37pG0CxNzsVH11mXSfq_WUwy4cyN0EIM6/ts
+#EXTINF:-1,CA | ZESTE
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2Zqv8wAmbPVG1ngKnhaYIJnj02r10_Mh2lqZw4UeSqL/ts
+#EXTINF:-1,USA | FOX BUSINNES HD**
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3nn25c7Tx4LM8Q75E4U5_v0uMhkd84RA9kg8jmJW_RM/ts
+#EXTINF:-1,USA | CBS NEWS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8CpnouTk65wRELiuQqnqY9RT_1DS77flFwxuiieY5ps/ts
+#EXTINF:-1,USA | ONE AMERICA NEWS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8CpnouTk65wRELiuQqnqY9q746WA1scYUdMaOIHSAI4/ts
+#EXTINF:-1,USA | CNBC WORLD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8CpnouTk65wRELiuQqnqY_A5AUpYpPfAiDarKnsxX_F/ts
+#EXTINF:-1,USA | FOX NEWS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8CpnouTk65wRELiuQqnqY_KR2KRxu2uMJrr8z-gXDpW/ts
+#EXTINF:-1,USA | NESN PLUS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-TZaFoPf4vPagIBzARU_Q1BUbrYtnqBKHrad04jmrBx/ts
+#EXTINF:-1,USA | BBC WORLD NEWS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-TZaFoPf4vPagIBzARU_Q2DecBPx3hbyE0Bonycvc1a/ts
+#EXTINF:-1,USA | CHEDDAR NEWS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-TZaFoPf4vPagIBzARU_Q17fPtY06_V-LhB9_-qUIBn/ts
+#EXTINF:-1,USA | BLOOMBERG
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-TZaFoPf4vPagIBzARU_Q297WFaI0ps42Hu_DHn7obq/ts
+#EXTINF:-1,USA | NEWSMAX TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-TZaFoPf4vPagIBzARU_Q0fMZtNTsCjfhWooQqB8fBo/ts
+#EXTINF:-1,USA | NEWSY
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-TZaFoPf4vPagIBzARU_Q0EtztkvBAPibuYHyz0nki5/ts
+#EXTINF:-1,USA | COURT TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-TZaFoPf4vPagIBzARU_Q343YaO5pcOdRDNnHQhZYz8/ts
+#EXTINF:-1,USA | AL JAZEERA
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-TZaFoPf4vPagIBzARU_Q16vhpD41k7veAoXqSWW766/ts
+#EXTINF:-1,USA | BABY TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-TZaFoPf4vPagIBzARU_Q0uKy6fM7uiGVw0_6Zfpis0/ts
+#EXTINF:-1,USA | BOOMERANG
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-TZaFoPf4vPagIBzARU_Q3-kVBrdHWbtT7sZmwDtyOi/ts
+#EXTINF:-1,US | A&E UHD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk93MGtORtezmtgFQJ7ePfdwhVv-TGInuZqr21C67wC1U/ts
+#EXTINF:-1,US | Accuweather HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk93MGtORtezmtgFQJ7ePfdxPtm9Db4RVlH73hbm6dSGc/ts
+#EXTINF:-1,US | Adult Swim East HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk93MGtORtezmtgFQJ7ePfdx7uZRf62OQknd2lLadzsxy/ts
+#EXTINF:-1,US | Adult Swim West HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk93MGtORtezmtgFQJ7ePfdyYM9EB2Gc5siopi4qK_7O9/ts
+#EXTINF:-1,US | AMC HD East (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk93MGtORtezmtgFQJ7ePfdw3L-KiYjYHxNeW9e3zi_yB/ts
+#EXTINF:-1,US | AMC HD West (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk93MGtORtezmtgFQJ7ePfdwMpc3DWpPHNRRU_KksoJJK/ts
+#EXTINF:-1,US | AMC Presents
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwY4TAVUVksfikQ6GAISuLtb-BpWT0DQVTjPrydoTtfZ/ts
+#EXTINF:-1,US | AMC Thrillers
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwY4TAVUVksfikQ6GAISuLtilxDDaZVLHvTasXzpLI5J/ts
+#EXTINF:-1,US | AMC+ HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwY4TAVUVksfikQ6GAISuLsX6z_jrJZ8Cay4TZOpl-M4/ts
+#EXTINF:-1,US | American Heroes Channel HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwY4TAVUVksfikQ6GAISuLuekyeuDmc3QFhpd-JnlGVF/ts
+#EXTINF:-1,US | AMG TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwY4TAVUVksfikQ6GAISuLtCzfZSP2kuEKE32lVzb1B0/ts
+#EXTINF:-1,US | Antenna TV HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwY4TAVUVksfikQ6GAISuLvDAL0hxWGRXeN0JGYRTPM_/ts
+#EXTINF:-1,US | Aspire HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwY4TAVUVksfikQ6GAISuLvKqq7FmYF8ZA4Zmoit-0JU/ts
+#EXTINF:-1,US | AWE HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwY4TAVUVksfikQ6GAISuLvXdtNeTSmbwoViD1up0pOz/ts
+#EXTINF:-1,US | BET East HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwY4TAVUVksfikQ6GAISuLvvOYNgz8LMOJukwqtXXHYi/ts
+#EXTINF:-1,US | Bet Her East HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwY4TAVUVksfikQ6GAISuLsKEf6PQ0uuT-ySBQi3vKMV/ts
+#EXTINF:-1,US | Bet Her West HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9kKWflG5i2k3-sx7xSXNcFREhLUH7dErsIHhtf-u85c/ts
+#EXTINF:-1,US | Bet Jams (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9kKWflG5i2k3-sx7xSXNcFulqw8u8WeT4hCcil9wdWV/ts
+#EXTINF:-1,US | BET Soul (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9kKWflG5i2k3-sx7xSXNcHa8sooAMjq96G8_FtVkIfb/ts
+#EXTINF:-1,US | Bet West HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9kKWflG5i2k3-sx7xSXNcEzLjIM6J5Ke1OmW0CI7Xe0/ts
+#EXTINF:-1,US | Bounce TV HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9kKWflG5i2k3-sx7xSXNcEkhzn6GueIOAYtOkUvhTLA/ts
+#EXTINF:-1,US | Bravo East HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9kKWflG5i2k3-sx7xSXNcG_2DjCZ6i5WdAeSejRG-7x/ts
+#EXTINF:-1,US | Bravo West HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9kKWflG5i2k3-sx7xSXNcE-J-to8qZJDCP_mDt2S5Zo/ts
+#EXTINF:-1,US | BUZZR HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9kKWflG5i2k3-sx7xSXNcEYSz_sIIjRDBN3phxCfa8s/ts
+#EXTINF:-1,US | Charge! HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9kKWflG5i2k3-sx7xSXNcG943AdaESh10JFIL94gswe/ts
+#EXTINF:-1,US | Cheddar Business HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9kKWflG5i2k3-sx7xSXNcG7kC8UrXJJB4TdiOHvv81m/ts
+#EXTINF:-1,US | Chive TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwFb01mnE_IslLQg1a9jL2U3Ipxx557P0xZB0NYOpyTA/ts
+#EXTINF:-1,US | Circle HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwFb01mnE_IslLQg1a9jL2UVx45VllbAeTeNKn1eg6d-/ts
+#EXTINF:-1,US | Classic Arts Showcase (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwFb01mnE_IslLQg1a9jL2Va7djlSrSGfxZVxn9aofGX/ts
+#EXTINF:-1,US | Cleo TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwFb01mnE_IslLQg1a9jL2XS5uEKvbiX3kF4MEhGS97b/ts
+#EXTINF:-1,US | CNBC UHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwFb01mnE_IslLQg1a9jL2XQQ4B_zrYkstUwn8pNHfCf/ts
+#EXTINF:-1,US | Comedy Central East HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwFb01mnE_IslLQg1a9jL2V6cktYI9koIQxrBblKvze3/ts
+#EXTINF:-1,US | Comedy Central West HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwFb01mnE_IslLQg1a9jL2Uq8ULLs9JRn43O8XKetC0t/ts
+#EXTINF:-1,US | Comedy TV HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwFb01mnE_IslLQg1a9jL2VYU1Lf_9T1ID2J2IO9FC2h/ts
+#EXTINF:-1,US | Comet HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwFb01mnE_IslLQg1a9jL2XIfMQqqrMXq_pG1HPtYo9x/ts
+#EXTINF:-1,US | Cooking Channel HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkwFb01mnE_IslLQg1a9jL2U8K7oGbwNZMoWOB3_Be4fG/ts
+#EXTINF:-1,US | Cottage Life HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8SQLAo6xq50StJnka9VuX_4po_Y7XhCmzcxedVZNCH6/ts
+#EXTINF:-1,US | Court TV UHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8SQLAo6xq50StJnka9VuX_vixhcY1qyALqF9l79ND62/ts
+#EXTINF:-1,US | Cozi TV HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8SQLAo6xq50StJnka9VuX_yU4JqGMNn2j0H3zRR9g3u/ts
+#EXTINF:-1,US | Crave HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8SQLAo6xq50StJnka9VuX9n1zdX-vuAfeST0zhReMhf/ts
+#EXTINF:-1,US | Decades HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8SQLAo6xq50StJnka9VuX-5-4ZF0lj5AdndGImwnRwj/ts
+#EXTINF:-1,US | Destination America HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8SQLAo6xq50StJnka9VuX-4Nc2mMRoZEupswDUeSWr7/ts
+#EXTINF:-1,US | DIY Network HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8SQLAo6xq50StJnka9VuX9C7cLYABAn_gXpsVLQN5Cv/ts
+#EXTINF:-1,US | Dog TV HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8SQLAo6xq50StJnka9VuX8VFWto4KqtK53zE5dwMRyz/ts
+#EXTINF:-1,US | E! Entertainment East HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8SQLAo6xq50StJnka9VuX_l8jODgB6R4tIbdMYja2hU/ts
+#EXTINF:-1,US | E! Entertainment West HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk8SQLAo6xq50StJnka9VuX8cNL_uf-VmRuPI_wvpOGRC/ts
+#EXTINF:-1,US | El Rey HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2HaLQF6tusdVnmMpLQMUuzGKDNu67MCps7OvY9tgbx6/ts
+#EXTINF:-1,US | Epix Hits HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2HaLQF6tusdVnmMpLQMUuypO8nxxAZ78R29TDWbO9hH/ts
+#EXTINF:-1,US | Food Network East HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2HaLQF6tusdVnmMpLQMUuzgG23jAfELqYqQIamiYa03/ts
+#EXTINF:-1,US | Food Network West HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2HaLQF6tusdVnmMpLQMUuxrW-i0HmwFlc_15DEcXyMc/ts
+#EXTINF:-1,US | Freeform East HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2HaLQF6tusdVnmMpLQMUux5ya22vC_kKalhq8MQgMJM/ts
+#EXTINF:-1,US | Freeform West HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2HaLQF6tusdVnmMpLQMUuz82OnDNYe8RCYZ4Y4lUnah/ts
+#EXTINF:-1,US | Fuse HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2HaLQF6tusdVnmMpLQMUuy0tZDtvrFlRPkN4ROKrNzI/ts
+#EXTINF:-1,US | Fusion HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2HaLQF6tusdVnmMpLQMUuzqaTBOEZvhCvs0e76h2Buv/ts
+#EXTINF:-1,US | FYI HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2HaLQF6tusdVnmMpLQMUuy_rlek0mySPTcB1z29oCt4/ts
+#EXTINF:-1,US | Game Show Central UHD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2HaLQF6tusdVnmMpLQMUuycS2ykBqakwhzQ_QMyH1gy/ts
+#EXTINF:-1,US | Game Show Network HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk--qGv7NqdRqO-ktfEZ8a0kuxdt3qQYlE1aS2_w78aDx/ts
+#EXTINF:-1,US | Game+ HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk--qGv7NqdRqO-ktfEZ8a0k7cL9UC79NMjgir6TixYjF/ts
+#EXTINF:-1,US | GET TV HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk--qGv7NqdRqO-ktfEZ8a0lzCeESPsd5RMSBCBLZqtQa/ts
+#EXTINF:-1,US | Great American Country HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk--qGv7NqdRqO-ktfEZ8a0luQpBBPHfHFzZhnUh8Rjma/ts
+#EXTINF:-1,US | Great American Living HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk--qGv7NqdRqO-ktfEZ8a0lYOn-kJ0OJc2mZOdMedXui/ts
+#EXTINF:-1,US | Grit HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk--qGv7NqdRqO-ktfEZ8a0lOKk9giI8lQrM03H0V-Ykg/ts
+#EXTINF:-1,US | Haunt TV HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk--qGv7NqdRqO-ktfEZ8a0mzTR6R252fUrgojyF0oMMs/ts
+#EXTINF:-1,US | HGTV East HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk--qGv7NqdRqO-ktfEZ8a0mtMWO7Y1JCEhZyh2ue14gk/ts
+#EXTINF:-1,US | HGTV West HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk--qGv7NqdRqO-ktfEZ8a0nKhI4owWVO3jmm9-1i94cv/ts
+#EXTINF:-1,US | HSN
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk--qGv7NqdRqO-ktfEZ8a0lNn-y_BaOZOhIAOKS81ToM/ts
+#EXTINF:-1,US | HSN2 (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkz2YP1oMH3WiMPc381afrVoGtWVg8YsULI1QJVwaqpI6/ts
+#EXTINF:-1,US | IFC HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkz2YP1oMH3WiMPc381afrVoXDxgXeJ_u0SqAlsFfJs-u/ts
+#EXTINF:-1,US | Insight TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkz2YP1oMH3WiMPc381afrVrrkkeI6g2rAiE3ymQHCM_3/ts
+#EXTINF:-1,US | Inspire HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkz2YP1oMH3WiMPc381afrVrij2mLbp8BgvE6JyGhXVPu/ts
+#EXTINF:-1,US | ION TV UHD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkz2YP1oMH3WiMPc381afrVqKfwBc8ZrHiL3YgBXVEf2i/ts
+#EXTINF:-1,US | Justice Central HD+
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkz2YP1oMH3WiMPc381afrVoYcw3b_yO0fPzDAxZqpEWB/ts
+#EXTINF:-1,US | LAFF TV HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkz2YP1oMH3WiMPc381afrVpcVfQXmBI6jV_d3tOjPn96/ts
+#EXTINF:-1,US | Law and Crime HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkz2YP1oMH3WiMPc381afrVoAMiSuR3vJcFoUePoFftJH/ts
+#EXTINF:-1,US | Lifetime HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkz2YP1oMH3WiMPc381afrVqDmcuUkEr7Put6w1vascKQ/ts
+#EXTINF:-1,US | Lifetime Real Women
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkz2YP1oMH3WiMPc381afrVrmG-m2g4cwbaPyfsxPamDQ/ts
+#EXTINF:-1,US | Logo TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5Aep-l6nIELWPpSZt1UtjrU0aU542AFQrSh8nfaFly4/ts
+#EXTINF:-1,US | Magnolia Network HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5Aep-l6nIELWPpSZt1UtjrBxbpU8z4iG0fxPN2-iV2y/ts
+#EXTINF:-1,US | Me TV HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5Aep-l6nIELWPpSZt1UtjqhFzqrqFoYa1utPxsSsmgu/ts
+#EXTINF:-1,US | MotorTrend UHD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5Aep-l6nIELWPpSZt1UtjpyKSAgu2nLEH_rHoSuLdqf/ts
+#EXTINF:-1,US | MSNBC HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5Aep-l6nIELWPpSZt1Utjq-Gh4zsrwxtcL4O1hsdWhF/ts
+#EXTINF:-1,US | MTV 2 HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5Aep-l6nIELWPpSZt1UtjrUTMd4n7wqlICPlMEFukiA/ts
+#EXTINF:-1,US | MTV Classic HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5Aep-l6nIELWPpSZt1UtjoyAj43eGVYmSLzO_ld2Cnk/ts
+#EXTINF:-1,US | MTV Live HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5Aep-l6nIELWPpSZt1UtjrCGdC2RebaTWhG1vh0jUoc/ts
+#EXTINF:-1,US | MTV East UHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5Aep-l6nIELWPpSZt1UtjptXVintvxZd-GuXClSJN7Q/ts
+#EXTINF:-1,US | Nasa TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5Aep-l6nIELWPpSZt1Utjp_LjJgXGWj2KqPjXhyF3Iv/ts
+#EXTINF:-1,US | NBC Universo East HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-2PXhkfgCd7jwWSV3R1JKD5nIrHecTmM9UtUN87IOTb/ts
+#EXTINF:-1,US | NEWSY HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-2PXhkfgCd7jwWSV3R1JKCOCCsTtYud3M5ucxDexJVI/ts
+#EXTINF:-1,US | Outside TV UHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-2PXhkfgCd7jwWSV3R1JKAbRSgkAyMLHgsqNquEyGqs/ts
+#EXTINF:-1,US | OWN UHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-2PXhkfgCd7jwWSV3R1JKA-A8HYJEewjjFj1yeFeeAa/ts
+#EXTINF:-1,US | Paramount Network UHD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-2PXhkfgCd7jwWSV3R1JKARzn9h_64-fk_cADMJymCf/ts
+#EXTINF:-1,US | PixL
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-2PXhkfgCd7jwWSV3R1JKBuQf-WQJSp1trK17H3ieR5/ts
+#EXTINF:-1,US | Pop TV HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-2PXhkfgCd7jwWSV3R1JKDSv7AXmjwUwNajbcGqWOdn/ts
+#EXTINF:-1,US | Popstar! TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-2PXhkfgCd7jwWSV3R1JKAbxChRp2mbkg9cGJ3rOuGz/ts
+#EXTINF:-1,US | QVC TV HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-2PXhkfgCd7jwWSV3R1JKDWfN1uqdwWygSusJxV84pz/ts
+#EXTINF:-1,US | QVC2 HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk-2PXhkfgCd7jwWSV3R1JKD2Q7eHZe5akIJVLZXA-juL/ts
+#EXTINF:-1,US | REELZ HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6tKf_d4-NcJPF7k-wFpjuDRCVRpJWAFaJz9dqoAslYf/ts
+#EXTINF:-1,US | Retro TV HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6tKf_d4-NcJPF7k-wFpjuC6Cmq2ylGlurUoxuKVnVGB/ts
+#EXTINF:-1,US | Revolt HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6tKf_d4-NcJPF7k-wFpjuBncXvlya7J6_4NLwpeTIsT/ts
+#EXTINF:-1,US | RFD TV HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6tKf_d4-NcJPF7k-wFpjuDrakOqFv1JRlDNawjv-FKd/ts
+#EXTINF:-1,US | Science Channel UHD(D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6tKf_d4-NcJPF7k-wFpjuBSBebPIZKhccfIrSGPGffh/ts
+#EXTINF:-1,US | Smithsonian East HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6tKf_d4-NcJPF7k-wFpjuB1PvCiVYhs5NnXpKCoSeZr/ts
+#EXTINF:-1,US | Smithsonian West HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6tKf_d4-NcJPF7k-wFpjuDwMjtiLp8iEJFO8x67bUg4/ts
+#EXTINF:-1,US | Sportsman Channel HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6tKf_d4-NcJPF7k-wFpjuC76q7dsGCkv3FyBLNS6HMu/ts
+#EXTINF:-1,US | Start TV HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6tKf_d4-NcJPF7k-wFpjuAS89gf7i5QQz62qoZHGmuk/ts
+#EXTINF:-1,US | Stories By AMC
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6tKf_d4-NcJPF7k-wFpjuB5oIoXJ2WiX-SfXzHpyvjc/ts
+#EXTINF:-1,US | Sundance HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk05gbN_eZK_ECn-MKfEBjUZb85t50meF01ySNSiw1td8/ts
+#EXTINF:-1,US | SWX Right Now (KULR)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk05gbN_eZK_ECn-MKfEBjUZVcpiR5spWqAZthU0iWIXG/ts
+#EXTINF:-1,US | Syfy East UHD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk05gbN_eZK_ECn-MKfEBjUZ4GsZj-zQYhdIKPxOkc70v/ts
+#EXTINF:-1,US | SyFy West HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk05gbN_eZK_ECn-MKfEBjUYoEHTFNmzWFoCDfiPg_AKg/ts
+#EXTINF:-1,US | TBD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk05gbN_eZK_ECn-MKfEBjUam4bJTrsLXdhvZXAJEi_wK/ts
+#EXTINF:-1,US | TBS East UHD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk05gbN_eZK_ECn-MKfEBjUbkKxF9fV0yFf2MFaTwp2DY/ts
+#EXTINF:-1,US | TBS West UHD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk05gbN_eZK_ECn-MKfEBjUZWrXLt-sIiT3rUuNXvUeLc/ts
+#EXTINF:-1,US | TCM HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk05gbN_eZK_ECn-MKfEBjUZoLek5Yo2S1-LRX3uMEObT/ts
+#EXTINF:-1,US | The Country Network
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk05gbN_eZK_ECn-MKfEBjUb2CXECkTeKV0f2rJDzHiqs/ts
+#EXTINF:-1,US | The Cowboy Channel HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk05gbN_eZK_ECn-MKfEBjUaaGXm3gPTtI9MldkPmQr7o/ts
+#EXTINF:-1,US | TLC East HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3x5BJiZIm68yTSh3N4kFlxtDEjRM-ys_Ar9ii7HVOP9/ts
+#EXTINF:-1,US | TMZ (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3x5BJiZIm68yTSh3N4kFlzk1-vTF9WPOtd07dyIvXPr/ts
+#EXTINF:-1,US | TruTV UHD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3x5BJiZIm68yTSh3N4kFlxHOC_xZcJrRFJhVYVQT91i/ts
+#EXTINF:-1,US | TV Land East HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3x5BJiZIm68yTSh3N4kFlwmlJoYLmU0NMxDaTlT1Bq9/ts
+#EXTINF:-1,US | TV Land West HD (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3x5BJiZIm68yTSh3N4kFlzcTAwMCrMie2rOneXdDaUC/ts
+#EXTINF:-1,US | TV One HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3x5BJiZIm68yTSh3N4kFlypX0oTBNMTZGgrrfEt-le5/ts
+#EXTINF:-1,US | UP TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3x5BJiZIm68yTSh3N4kFlzN0x505fMpqnmuPKYX92DC/ts
+#EXTINF:-1,US | USA Network East HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3x5BJiZIm68yTSh3N4kFlxqOfHsBEYSwYOA8x2Qayld/ts
+#EXTINF:-1,US | USA Today News (D)
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3x5BJiZIm68yTSh3N4kFlxCzMfOvztm-Ag0S3D0RyWQ/ts
+#EXTINF:-1,US | VH1 Classic
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3x5BJiZIm68yTSh3N4kFlzWolJK6xQ9gjb_MRdsBvvp/ts
+#EXTINF:-1,US | VH1 East HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5LgMOFGGAzTXme78cl5OD75YCssWnLRhEbDpDCdnEb1/ts
+#EXTINF:-1,US | VH1 West HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5LgMOFGGAzTXme78cl5OD4dioLF0pMd0TwfOZfMlAr6/ts
+#EXTINF:-1,US | VICE TV HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5LgMOFGGAzTXme78cl5OD5cq7gdknZRrEHf0MnHMbdQ/ts
+#EXTINF:-1,US | Viceland UHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5LgMOFGGAzTXme78cl5OD4FUn6z6aG9MSbmaF0lWLlp/ts
+#EXTINF:-1,US | We TV HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5LgMOFGGAzTXme78cl5OD4SWmHlPxJTemK5jr4vU1lO/ts
+#EXTINF:-1,US | MTV West UHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5LgMOFGGAzTXme78cl5OD4TRlmM_7hTYSmx68UA0OXO/ts
+#EXTINF:-1,US | ION TV PLUS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5LgMOFGGAzTXme78cl5OD6_18HWQkorysFHwPTIMbSh/ts
+#EXTINF:-1,UK | ITV 1
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0_oDF_YC601OwpPt0hKl1ZoiFX7DZ_fvWsqmaPJAgCk/ts
+#EXTINF:-1,UK | ITV 2
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk0_oDF_YC601OwpPt0hKl1YDQVHMs9M_K1-biPs3TcYe/ts
+#EXTINF:-1,UK | ITV 3
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7XryS50Bl47h4uvyMNGURLaxsRoubSM5TklD_m7HyM2/ts
+#EXTINF:-1,UK | ITV 4
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7XryS50Bl47h4uvyMNGURK1LQN1A0KYqjUkhawlF0vC/ts
+#EXTINF:-1,UK | ITV BE
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7XryS50Bl47h4uvyMNGURKduGbNi_1SL4A18r1-_QDn/ts
+#EXTINF:-1,UK | Channel 4 FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7XryS50Bl47h4uvyMNGURLLBVCN-gMrocUu8WwTZpnp/ts
+#EXTINF:-1,UK | Channel 5
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7XryS50Bl47h4uvyMNGURIqZCWekMsFo90Aadl4c5Xm/ts
+#EXTINF:-1,UK | E4 FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7XryS50Bl47h4uvyMNGURKWsHY2gv3SLjmLeyHGVU3e/ts
+#EXTINF:-1,UK | More 4
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7XryS50Bl47h4uvyMNGURIJG_RzONeE0224c8j5DrqG/ts
+#EXTINF:-1,UK | Tru TV HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7XryS50Bl47h4uvyMNGURIn6_uyVCSw4LvriutOZdvb/ts
+#EXTINF:-1,UK | Quest FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7XryS50Bl47h4uvyMNGURKV9FrpPQi3mynS1R0mw-uc/ts
+#EXTINF:-1,UK | Quest Red
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7XryS50Bl47h4uvyMNGURKGAGOfOyJjOVwrbFuv0RZB/ts
+#EXTINF:-1,UK | Animal Planet
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5QNaznOghmgN6w9OkgAW8QNcouVoRvioByLwfmXzLfd/ts
+#EXTINF:-1,UK | NatGeo FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5QNaznOghmgN6w9OkgAW8R0stAj34xQtwldWx89sYWZ/ts
+#EXTINF:-1,UK | NatGeo Wild FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5QNaznOghmgN6w9OkgAW8TeIijzEMiW_f3qvrkagXjm/ts
+#EXTINF:-1,UK | Discovery Channel FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5QNaznOghmgN6w9OkgAW8RgM-wCnIFvkm877rYqyaXe/ts
+#EXTINF:-1,UK | Discovery Science
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5QNaznOghmgN6w9OkgAW8Qa_B0pHwAus38C43d3K2wO/ts
+#EXTINF:-1,UK | Discovery Turbo
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5QNaznOghmgN6w9OkgAW8Q5iyDzguiJ33J2xxASYiaO/ts
+#EXTINF:-1,UK | Discovery History
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5QNaznOghmgN6w9OkgAW8R3lKOluq7Wtc1p4cUx5Tx6/ts
+#EXTINF:-1,UK | Sky History
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5QNaznOghmgN6w9OkgAW8T0iieKmxruaMEpgRol4mvQ/ts
+#EXTINF:-1,UK | H2 FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5QNaznOghmgN6w9OkgAW8TDYfT70gJpAez3yEyU5pLZ/ts
+#EXTINF:-1,UK | Crime & Investigation HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk5QNaznOghmgN6w9OkgAW8RlIUth7PXfno4i6pKA4io7/ts
+#EXTINF:-1,UK | Travel Channel FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3IvxDsp0reGK3CwfPjCFrYH472j3IcDf7tUwF5jRYzH/ts
+#EXTINF:-1,UK | Eden
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3IvxDsp0reGK3CwfPjCFrYXIqnszUCdcxB3LU7-JujR/ts
+#EXTINF:-1,UK | British Muslim TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3IvxDsp0reGK3CwfPjCFrYcIRxRVIyfK7oVnCyQ3ma-/ts
+#EXTINF:-1,UK | Sky News
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3IvxDsp0reGK3CwfPjCFraAat2z_6U2ou9Aog8iXq5V/ts
+#EXTINF:-1,UK | BBC News
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3IvxDsp0reGK3CwfPjCFrYdajD1zDVdXDuZInRqAOSg/ts
+#EXTINF:-1,UK | BBC World News SD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3IvxDsp0reGK3CwfPjCFraBW-xt--wpJ9-0K400P7h1/ts
+#EXTINF:-1,UK | BBC Parliament
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3IvxDsp0reGK3CwfPjCFrYOcCozvNfnosPKJDwuRxui/ts
+#EXTINF:-1,UK | BBC 1
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3IvxDsp0reGK3CwfPjCFrZ6Rzb0Y38dt-i6UCnyilLp/ts
+#EXTINF:-1,UK | BBC 2
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3IvxDsp0reGK3CwfPjCFrZ0D7dzs2YbN728I30ZSqmX/ts
+#EXTINF:-1,UK | BBC Alba
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3IvxDsp0reGK3CwfPjCFrblbFXntQek_JDpco3o5hLS/ts
+#EXTINF:-1,UK | BBC Entertainment
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1n4T-fCcDijBq3KVUHqr_dUNsjpl1xgm2B1diQq2Vj9/ts
+#EXTINF:-1,UK | BBC First
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1n4T-fCcDijBq3KVUHqr_f-3U2X_jxSmYvlrIUIEKH5/ts
+#EXTINF:-1,UK | EuroNews HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1n4T-fCcDijBq3KVUHqr_e6AXQhikUF0_N8ZNVPEURJ/ts
+#EXTINF:-1,UK | RTE News
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1n4T-fCcDijBq3KVUHqr_fhDNMsWxZwB7lDQmJDfrQx/ts
+#EXTINF:-1,UK | CBBC FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1n4T-fCcDijBq3KVUHqr_fLCvXggsTcP3mnZST34pWj/ts
+#EXTINF:-1,UK | CNN INT.
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1n4T-fCcDijBq3KVUHqr_cye-vgVP5pNTAVOZ51UYHU/ts
+#EXTINF:-1,UK | CNN
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1n4T-fCcDijBq3KVUHqr_fA1OiVHR5R9HuVBF9bvz0D/ts
+#EXTINF:-1,UK | ABC News US HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1n4T-fCcDijBq3KVUHqr_e3qEf70msBFwlSuGdz7rSn/ts
+#EXTINF:-1,UK | Bloomberg TV HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1n4T-fCcDijBq3KVUHqr_fdMCnrULuvmpZOoFPSPYfK/ts
+#EXTINF:-1,UK | Film 4
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1n4T-fCcDijBq3KVUHqr_dJ-PtdQn02cF6mwk_ronNS/ts
+#EXTINF:-1,UK | Gold FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9t5BY5qggHZm2d85E9M2xSVZAc_HlCBaryMcii2wo-2/ts
+#EXTINF:-1,UK | Universal TV HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9t5BY5qggHZm2d85E9M2xRsRbB-841rzpYN7ypXtrdd/ts
+#EXTINF:-1,UK | 5 Spike
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9t5BY5qggHZm2d85E9M2xSxv_0PdV0YDWIotvssWaa4/ts
+#EXTINF:-1,UK | 5 STAR
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9t5BY5qggHZm2d85E9M2xQOaMn6M0UNUwHRsVt5rCBL/ts
+#EXTINF:-1,UK | Alibi HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9t5BY5qggHZm2d85E9M2xT98WV_ljMXvkshXNRo0AOo/ts
+#EXTINF:-1,UK | Horror Channel
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9t5BY5qggHZm2d85E9M2xTR6uStz5eDlr4rMUBO50c5/ts
+#EXTINF:-1,UK | SYFY
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9t5BY5qggHZm2d85E9M2xRc3JgmJyYojueHwED6_KoE/ts
+#EXTINF:-1,UK | Comedy Central
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9t5BY5qggHZm2d85E9M2xQZNBDQ_YQnByr2AYaDn0H1/ts
+#EXTINF:-1,UK | AMC HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9t5BY5qggHZm2d85E9M2xRapConfnE5I7KAm4U0hJjz/ts
+#EXTINF:-1,UK | TCM FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk9t5BY5qggHZm2d85E9M2xT0PzV8Vk0WqVvC64eZ9u6V/ts
+#EXTINF:-1,UK | Drama
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7_LqEH4XcS2sA2W0a2LFgwJZxH5B5G3jAKiogse_0tq/ts
+#EXTINF:-1,UK | Watch FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7_LqEH4XcS2sA2W0a2LFgyNpruUYpfkh3LYSPWJn3bA/ts
+#EXTINF:-1,UK | Pick
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7_LqEH4XcS2sA2W0a2LFgx7S5zBhREXCSDXxKGz3JAL/ts
+#EXTINF:-1,UK | Challenge
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7_LqEH4XcS2sA2W0a2LFgxJYuBXvGoizTSMFCG9BEPx/ts
+#EXTINF:-1,UK | CBS Reality
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7_LqEH4XcS2sA2W0a2LFgxhfc_XoOB2huZTL9mjCy0E/ts
+#EXTINF:-1,UK | CBS Justice
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7_LqEH4XcS2sA2W0a2LFgziQASr6Jc6uHZQ9YqEIz88/ts
+#EXTINF:-1,UK | Food Network
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7_LqEH4XcS2sA2W0a2LFgyD85431q4DLWA0Blkfr4Xs/ts
+#EXTINF:-1,UK | Home
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7_LqEH4XcS2sA2W0a2LFgwta-R7QsiyaZ_VEXfL2WmY/ts
+#EXTINF:-1,UK | Dave
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7_LqEH4XcS2sA2W0a2LFgzijVn3AOLpvMv-nQpAEBJr/ts
+#EXTINF:-1,UK | Lifetime FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7_LqEH4XcS2sA2W0a2LFgxgVoIS5TiKttoSrKsntThV/ts
+#EXTINF:-1,UK | Blaze
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1OJ6-L9IGw69Xiug451y7Epp0dOvhItHUqpRIq-F9vT/ts
+#EXTINF:-1,UK | Yesterday
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1OJ6-L9IGw69Xiug451y7HlY5HyHhlwvurAdzzFOUug/ts
+#EXTINF:-1,UK | DMAX
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1OJ6-L9IGw69Xiug451y7GLEs7SZseB3PQiHbz3cw8J/ts
+#EXTINF:-1,UK | TLC
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1OJ6-L9IGw69Xiug451y7FB3s3AqD3CejuoWmMSP2Lx/ts
+#EXTINF:-1,UK | E! Entertainment
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1OJ6-L9IGw69Xiug451y7GyDoE92COOVpsL3uCNLNVj/ts
+#EXTINF:-1,UK | Sky One HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1OJ6-L9IGw69Xiug451y7FVILGSy0JbzMvNpGVuMD3_/ts
+#EXTINF:-1,UK | Sky Two
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1OJ6-L9IGw69Xiug451y7EXYBdhSYaUkv48Car4pzll/ts
+#EXTINF:-1,UK | Sky Atlantic HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1OJ6-L9IGw69Xiug451y7EfiHcxmAYXkCgB6GsK3Lmt/ts
+#EXTINF:-1,UK | Sky Witness HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1OJ6-L9IGw69Xiug451y7Euo8HojznBwF4oYytbE_vf/ts
+#EXTINF:-1,UK | Sky Arts HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk1OJ6-L9IGw69Xiug451y7EQgrW4fbAl5hSG-OJnKjtq/ts
+#EXTINF:-1,UK | Sky Cinema Action
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzdelXDof04kN_1uxzk2LQl2YL2JWxGranDbIAnO2TmJ/ts
+#EXTINF:-1,UK | Nick Jr. Too
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzdelXDof04kN_1uxzk2LQlVyseozQMLSOrlTl5OyUqp/ts
+#EXTINF:-1,UK | Nick Jr.
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzdelXDof04kN_1uxzk2LQn4mRtchQPRwu_T30XA6HSU/ts
+#EXTINF:-1,UK | Nicktoons
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzdelXDof04kN_1uxzk2LQmniE9YQfU2xdRYFfsP_Rwx/ts
+#EXTINF:-1,UK | Disney Junior HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzdelXDof04kN_1uxzk2LQnKLX4h3i7PtnC1FJfmCt2a/ts
+#EXTINF:-1,UK | Disney XD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzdelXDof04kN_1uxzk2LQkFe7XOMJ5189WRO7NzdaMt/ts
+#EXTINF:-1,UK | Disney Channel HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzdelXDof04kN_1uxzk2LQlQ3esfuXfT0X-zjtOg13ii/ts
+#EXTINF:-1,UK | Boomerang FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzdelXDof04kN_1uxzk2LQlsmHdVv7aKQH4t6ARw_xca/ts
+#EXTINF:-1,UK | Cartoon Network FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzdelXDof04kN_1uxzk2LQmPBQjHuhBFXAtTPorwoj5d/ts
+#EXTINF:-1,UK | Baby TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apkzdelXDof04kN_1uxzk2LQklsP-XTBXQf1WI86Ti9Lu-/ts
+#EXTINF:-1,UK | CBeebies FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3Brx6ypK_lhM2TPKPQNRbc9htxxz64adDJLjwUm-wJD/ts
+#EXTINF:-1,UK | Tiny Pop
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3Brx6ypK_lhM2TPKPQNRbeFYxXd2QWam2U4WdtCJdDC/ts
+#EXTINF:-1,UK | VH1
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3Brx6ypK_lhM2TPKPQNRbf1TSMK2lNf3eAu-_XE4toO/ts
+#EXTINF:-1,UK | MTV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3Brx6ypK_lhM2TPKPQNRbfs0eSoJHVVB0uGem9xwb1K/ts
+#EXTINF:-1,UK | MTV Classic
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3Brx6ypK_lhM2TPKPQNRbeV510Nwm8TC3VbaTCiwauE/ts
+#EXTINF:-1,UK | MTV Hits
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3Brx6ypK_lhM2TPKPQNRbd3-5_-n3m-lPuPzTnL-8g1/ts
+#EXTINF:-1,UK | MTV Music
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3Brx6ypK_lhM2TPKPQNRbdMwRcS7_1JCR1MRTj8D6KA/ts
+#EXTINF:-1,UK | Starz TV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3Brx6ypK_lhM2TPKPQNRbc9w1uto-I6XiE7qL-o2o3B/ts
+#EXTINF:-1,UK | KISS
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3Brx6ypK_lhM2TPKPQNRbev2xK_XLpwt_JV9___WuvS/ts
+#EXTINF:-1,UK | 4Music
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk3Brx6ypK_lhM2TPKPQNRbeaca6ubAc6BKO54tQeJlfv/ts
+#EXTINF:-1,UK | 5 Select
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2GSI0K84__G095gjMSRdO_4zop3lJqdn53nOwnEbhlK/ts
+#EXTINF:-1,UK | 5 USA
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2GSI0K84__G095gjMSRdO_G4k2hI5kB5ejuMenttA--/ts
+#EXTINF:-1,UK | Al Jazeera News
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2GSI0K84__G095gjMSRdO-ySuCyzT1KNyYr8bU2HggW/ts
+#EXTINF:-1,UK | Box Hits
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2GSI0K84__G095gjMSRdO8KMz3GlNegwO28sqS2ZLHw/ts
+#EXTINF:-1,UK | CITV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2GSI0K84__G095gjMSRdO9e76tH6GivwRi-8SzJaw_-/ts
+#EXTINF:-1,UK | Club MTV
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2GSI0K84__G095gjMSRdO9MNtmCb1pe8F6dlXa5aKSM/ts
+#EXTINF:-1,UK | Clubland
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2GSI0K84__G095gjMSRdO_1loGOsUXVkroxloXqSUaJ/ts
+#EXTINF:-1,UK | PBS America
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2GSI0K84__G095gjMSRdO8mf4h6EGZrrcaoMMibfZAn/ts
+#EXTINF:-1,UK | Sky Cinema Premiere
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2GSI0K84__G095gjMSRdO-KXgTxmiTeC5z81Nokj2Wh/ts
+#EXTINF:-1,UK | Sky Cinema Hits
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk2GSI0K84__G095gjMSRdO_8ysGJsxzT9H5IzVpT41nc/ts
+#EXTINF:-1,UK | Sky Cinema Greats
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4Lb5g5Gx5Myw_SaVSjzOHPUKI8ntxlvDQ2hhEQiVScC/ts
+#EXTINF:-1,UK | Sky Cinema Disney
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4Lb5g5Gx5Myw_SaVSjzOHMFW8OSNvX7DmmkIoDAbyce/ts
+#EXTINF:-1,UK | Sky Cinema Family
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4Lb5g5Gx5Myw_SaVSjzOHOBlD3PwXqzdzW13uYfjfNX/ts
+#EXTINF:-1,UK | Sky Cinema Comedy
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4Lb5g5Gx5Myw_SaVSjzOHPt9PTkR6tlETZfAcIpp28W/ts
+#EXTINF:-1,UK | Sky Cinema Crime & Thriller
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4Lb5g5Gx5Myw_SaVSjzOHNJXo-cdYUDA_T-gGLOHBxq/ts
+#EXTINF:-1,UK | Sky Cinema Drama
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4Lb5g5Gx5Myw_SaVSjzOHMoEZJ-ca8-27IKgvTguTPs/ts
+#EXTINF:-1,UK | Sky Cinema Sci-fi
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4Lb5g5Gx5Myw_SaVSjzOHOe9_xglEIj_CdVDWtlg7CH/ts
+#EXTINF:-1,UK | Sky Cinema Select
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4Lb5g5Gx5Myw_SaVSjzOHM6syDuAGw4BndfwPZXBvKP/ts
+#EXTINF:-1,UK | Boomerang
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4Lb5g5Gx5Myw_SaVSjzOHPXB2z-a_txe1f1eFwzCyvD/ts
+#EXTINF:-1,UK | Cartoon Network
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk4Lb5g5Gx5Myw_SaVSjzOHMnuMa7C82XeYd7OXSw7h2O/ts
+#EXTINF:-1,UK | NatGeo Wild
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6FKSR1PQehg9YAe94aiY_PIRTNFNplV2ib3J5fgvUZ-/ts
+#EXTINF:-1,UK | NatGeo
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6FKSR1PQehg9YAe94aiY_O_p-A_JjBFMpW0OzMULthV/ts
+#EXTINF:-1,UK | Discovery Channel
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6FKSR1PQehg9YAe94aiY_Nva7LndzJIY5lwgyCzB8_c/ts
+#EXTINF:-1,UK | RTE One FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6FKSR1PQehg9YAe94aiY_PQx18clODNT4x0xssX_-0a/ts
+#EXTINF:-1,UK | RTE Two HD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6FKSR1PQehg9YAe94aiY_MX29K26Xhuan5qo0FHobDN/ts
+#EXTINF:-1,UK | Channel 4
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6FKSR1PQehg9YAe94aiY_PfYeClZhugL4bjhKjgU9pI/ts
+#EXTINF:-1,UK | Channel 5 FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6FKSR1PQehg9YAe94aiY_Ph0Un7khL0ucjaEzhWuSb4/ts
+#EXTINF:-1,UK | 4 seven
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6FKSR1PQehg9YAe94aiY_NhcrDfnZd-0FV8_l1Opwp9/ts
+#EXTINF:-1,UK | E4
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6FKSR1PQehg9YAe94aiY_NVdqEZve-XiOEDtYUIcgL0/ts
+#EXTINF:-1,UK | More 4 FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk6FKSR1PQehg9YAe94aiY_NE480QSUL-jUK1Mwyj79cs/ts
+#EXTINF:-1,UK | Quest
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7TXXiV87p9cxJgzTM2RmL0Zf8QeVBkgRRGGPxl1B1Dw/ts
+#EXTINF:-1,UK | Film 4 FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7TXXiV87p9cxJgzTM2RmL3JpIQ14_nxQjZ-hcA37Zdy/ts
+#EXTINF:-1,UK | Gold
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7TXXiV87p9cxJgzTM2RmL3Js8e72h4s-ruXJ_VSttbn/ts
+#EXTINF:-1,UK | SYFY FHD
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7TXXiV87p9cxJgzTM2RmL1e5C0RBrXDshSGfCbfwFFe/ts
+#EXTINF:-1,UK | FOX News
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7TXXiV87p9cxJgzTM2RmL3S0184-yib_AHTvmD6SV31/ts
+#EXTINF:-1,UK | 5Action
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7TXXiV87p9cxJgzTM2RmL3hcyM2LKCIMk3rcP7XJW5R/ts
+#EXTINF:-1,UK | Watch
+http://hispanotv.net:80/play/omxT4lUgNHf5FjU6d_apk7TXXiV87p9cxJgzTM2RmL2E9e-u7WsyEghF34i-_556/ts
